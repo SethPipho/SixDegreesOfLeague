@@ -1,0 +1,44 @@
+#converys adjancy list into sif file for cytoscape
+
+
+import os
+import json
+import sys
+
+
+fileDir = os.path.dirname(__file__)
+relPath = "../datafiles/"
+
+adjFile = open(os.path.join(fileDir, relPath, "adjacencyList.all.longestTimeTogether.json"), "r", encoding="utf8")
+gdfFile = open(os.path.join(fileDir, relPath, "network.gdf"), "w", encoding="utf8")
+
+playerFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "r", encoding="utf8")
+
+
+adjList = json.loads(adjFile.read())
+playerList = json.loads(playerFile.read())
+
+players = {}
+for player in playerList:
+    players[player["name"]] = player
+    
+
+
+nodes = []
+edges = []
+
+for player,teamMates in adjList.items():
+   
+    nodes.append([player, str(players[player]["lastDate"] -  players[player]["firstDate"])])
+    for teamMate,team in teamMates.items():
+        edges.append([player,teamMate, str(team["end"] - team["start"])])
+    
+gdfFile.write("nodedef>name VARCHAR, size DOUBLE\n")
+
+for node in nodes:
+    gdfFile.write(",".join(node) + "\n")
+
+gdfFile.write("edgedef>node1 VARCHAR,node2 VARCHAR, weight DOUBLE\n")
+
+for edge in edges:
+    gdfFile.write(",".join(edge) + "\n")

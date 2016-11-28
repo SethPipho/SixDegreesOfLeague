@@ -1,4 +1,0 @@
-/wiki/Element|<class 'IndexError'>
-/wiki/Zor|<class 'IndexError'>
-/wiki/Tarzan|<class 'IndexError'>
-/wiki/Bebe|<class 'IndexError'>

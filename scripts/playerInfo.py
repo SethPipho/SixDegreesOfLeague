@@ -5,6 +5,7 @@ import re
 from multiprocessing.dummy import Pool
 import requests
 from bs4 import BeautifulSoup
+import json
 
 
 
@@ -12,24 +13,23 @@ fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
 playerFile = open(os.path.join(fileDir, relPath, "playerNames.txt"), "r", encoding="utf-8")
-outFile = open(os.path.join(fileDir, relPath, "playerInfoRaw.txt"), "wb")
-
+outFile = open(os.path.join(fileDir, relPath, "playerInfoRaw.json"), "w", encoding="utf-8")
+errorFile = open("errors/playerInfoErrors.txt", 'w')
 
 players = []
 
 for line in playerFile:
     s = line.strip().split(",")
-    players.append({"name":s[0], "url":s[1], "country":s[2], "position":s[3] })
+    players.append({"name":s[0], "url":s[1], "country":s[2], "position":s[3], "teams":[] })
 
 
 counter = 0
-failures = []
 
 
 def getHistory(player):
 
     global counter 
-    global failures
+    global errorFile
     counter += 1
     print("scraping", counter, "/", len(players) )
 
@@ -47,7 +47,7 @@ def getHistory(player):
         table = tableTr.find_next('table')
         rows = table.find_all('tr')
 
-        result = [player["name"], player['url'] , player["country"], player["position"]]
+        result = player
 
         for row in rows:
             cols = row.find_all('td')
@@ -65,20 +65,13 @@ def getHistory(player):
             endDate = date.split("-")[1].strip()
 
 
-            result.append(team)
-            result.append(position)
-            result.append(startDate)
-            result.append(endDate)
+            result["teams"].append({"teamName":team, "start":startDate, "end":endDate, "position":position})
             
-    
-    except:
-        failures.append([player["url"], sys.exc_info()[0]])
+    except Exception as e:
+        errorFile.write(player["url"] + str(e) + "\n")
         return 
     
-    if len(result) == 1:
-        return 
-
-    return "|".join(result)
+    return result
 
 pool = Pool(32)
 
@@ -87,18 +80,20 @@ histories = pool.map(getHistory, players)
 
 
 
-errorFile = open("errors/playerInfoErrors.txt", 'w')
-
-for item in failures:
-   errorFile.write(item[0])
-   errorFile.write("|")
-   errorFile.write(str(item[1]))
-   errorFile.write("\n")
-   
+jsonList = {}
 
 for item in histories:
     if item is not None:
-        outFile.write(item.encode('utf-8') + '\n'.encode('utf-8'))
+            name = item['name']
+            url = item["url"][6:].replace("_"," ")
+            if url != name:
+                jsonList[url] = item
+                jsonList[url]["name"] = url
+            else:
+                jsonList[name] = item
+
+
+outFile.write(json.dumps(jsonList, indent=4, sort_keys=True))
 
 outFile.close()
 playerFile.close()

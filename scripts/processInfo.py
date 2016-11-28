@@ -8,121 +8,93 @@
 
 import os
 import json
-import pprint
 import sys
 import unicodedata
 
 
-pp = pprint.PrettyPrinter(indent=4)
+
 
 fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
-inFile = open(os.path.join(fileDir, relPath, "playerInfoRaw.fixed.txt"), "r", encoding="utf8")
-jsonFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "w", encoding="utf8")
-
-players = []
+inFile = open(os.path.join(fileDir, relPath, "playerInfoRaw.json"), "r", encoding="utf8")
+outFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "w", encoding="utf8")
 
 
+playerData = json.loads(inFile.read())
 
-lineNum = 0
-#convert date to integers
-for line in inFile:
-    
 
-    lineNum += 1  
-    print(lineNum)
+#Uniques fixes
+playerData['Saiclone']["teams"][0]["end"] = "Sep 2015"
+playerData['Rhuckz']["teams"][-1]["end"] = "Present" 
+playerData['Malunoo']["teams"][2]["start"] = "Jan 2012" 
+playerData['HoneyRain']["teams"][-1]["end"] = "Present" 
+playerData['JothY']["teams"][0]["start"] = "Oct 2011" 
 
-    parts = line.split("|")
 
-    name = parts[0]
-   
-    url = parts[1]
-    country = parts[2]
-    role = parts[3]
 
-    player = {"name":name, "url":url, "country":country, "role":role,"status":"inactive", "teams":[]}
+#remove teams where either start or end date is unknown
+for player, data in playerData.items():
+    for i in range(len(data['teams']) - 1,-1,-1):
+        if "?" in data["teams"][i]["start"] or "?" in data["teams"][i]["end"]:
+            data["teams"].pop(i)
 
-    for i in range(4, len(parts), 4):
 
-        teamName = parts[i] 
-        position = parts[i+1]
-        startDate = parts[i+2].strip().lower()
-        endDate = parts[i+3].strip().lower()
 
-        if "?" in startDate or "?" in endDate:
-            continue
-        
-        if position == "Unknown":
-            position = role
-        elif position == "Caster":
-            continue
+for player,data in playerData.items():
 
+    print(player.encode("utf-8"))
+
+    firstDate = 1000
+    lastDate = 0
+
+    playerData[player]["status"] = "inactive"
+
+    for i,team in enumerate(data["teams"]):
+
+        startDate = team["start"].strip().lower()
+        endDate = team["end"].strip().lower()
 
         startMonth = startDate.split(" ")[0]
         startYear = startDate.split(" ")[-1]
 
         if endDate == "present":
-            endMonth = 'nov'
+            endMonth = 'dec'
             endYear = '2016'
-            player["status"] = "active"
-           
+            playerData[player]["status"] = "active"      
         else:
             endMonth = endDate.split(" ")[0]
             endYear = endDate.split(" ")[-1]
+               
         
         months = {'jan':1, 'fed':2, 'feb':2, 'fev':2, 'mar':3, 'march':3, 'apr':4, 'april':4, 'abr':4, 'may':5, 'june':6, 'jun':6, 'jul':7,  'july':7,
-         'aug':8, 'august':8, 'ago':8, 'sep':9, 'sept':9, 'spe':9, 'oct':10, 'october':10, 'nov':11, 'dec':12, 'dic':12, 'dez':12, 'late':12}
+        'aug':8, 'august':8, 'ago':8, 'sep':9, 'sept':9, 'spe':9, 'oct':10, 'october':10, 'nov':11, 'dec':12, 'dic':12, 'dez':12, 'late':12}
 
-       
+    
         #convert mdate into months since Jan 2000
         startNum = months[startMonth] + int(startYear[2:]) * 12
         endNum = months[endMonth] + int(endYear[2:]) * 12
 
-       
-        player["teams"].append({"teamName": teamName, "start":startNum, "end":endNum, "position":position})
+        #track firstdate and last date for carreer start and finish
+        if startNum < firstDate:
+            firstDate = startNum
+        if endNum > lastDate:
+            lastDate = endNum
+
+        #sometimes happens
+        if startNum > endNum:
+            endNum += 12
+
+        playerData[player]["teams"][i]["start"] = startNum
+        playerData[player]["teams"][i]["end"] = endNum
+
+        playerData[player]["firstDate"] = firstDate
+        playerData[player]["lastDate"] = lastDate
         
 
-    
-    players.append(player)
+outFile.write(json.dumps(playerData, indent=4, sort_keys=True))
 
-#rename duplicates
-
-players = sorted(players, key= lambda p: p["name"])
-
-duplicates = []
-
-for i in range(len(players) - 2, -1, -1):
-
-    if players[i]["name"] == players[i + 1]["name"]:
-        if  players[i]["name"] != players[i + 2]["name"]:
-            duplicates.append(players.pop(i+1))
-            duplicates.append(players.pop(i))
-        else:
-            duplicates.append(players.pop(i))
-
-#rename with name given in url eg (/wiki/sneaker_(Stan_Smith))
-for i,item in enumerate(duplicates):
-    url = item['url']
-    index = url.find("_")
-
-    if index != -1:
-        name = url[index + 1:].replace("_", " ")
-        duplicates[i]['name'] += name
-        
-    players.append(duplicates[i])
-
-
-#get rid of special characters
-for i in range(len(players)):
-    players[i]["name"] = unicodedata.normalize('NFKD', players[i]["name"].lower())
-   
-   
-players = sorted(players, key= lambda p: p["name"])
-
-jsonFile.write(json.dumps(players, indent=4, sort_keys=True))
-
-jsonFile.close()
+outFile.close()
 inFile.close()
 
    

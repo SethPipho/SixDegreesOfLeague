@@ -5,10 +5,22 @@ import os
 fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
-playerFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "r", encoding="utf-8")
 
-players = json.loads(playerFile.read())
-playerFile.close()
+import os
+import json
+import sys
+import unicodedata
+
+
+
+fileDir = os.path.dirname(__file__)
+relPath = "../datafiles/"
+
+inFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "r", encoding="utf8")
+
+
+players = json.loads(inFile.read())
+
 
 #determines if two dates overlap, returns time they started and ended working togehter
 def overLap(a,b,c,d):
@@ -37,6 +49,8 @@ def playedTogether(playerA, playerB):
                 if overLapTime[0] != 0:
                     data = {"teamName" : a["teamName"], "position":a["position"], "start":overLapTime[0], 'end': overLapTime[1]}
                     sameTime.append(data)
+                    if (overLapTime[0] > overLapTime[1]):
+                        print(playerA['name'], playerB['name'])
     return sameTime
 
 
@@ -44,11 +58,11 @@ adjacencyList = {}
 
 print("creating complete List")
 #created complete adjacencyList
-for playerA in players:
-  
+for playerA in players.values():
+    
     adjacencyList[playerA["name"]] = {}
 
-    for playerB in players:
+    for playerB in players.values():
         if playerA["name"] == playerB["name"]:
             continue
        
@@ -88,16 +102,16 @@ adjacencyList = {}
 
 print("creating active List")
 #created complete adjacencyList
-for playerA in players:
+for playerA in players.values():
   
     if (playerA["status"]) == "inactive":
         continue
     adjacencyList[playerA["name"]] = {}
 
-    for playerB in players:
+    for playerB in players.values():
         if playerA["name"] == playerB["name"]:
             continue
-        if (playerB["status"]) == "inactive":
+        if playerB["status"] == "inactive":
             continue
        
         edges = playedTogether(playerA, playerB)

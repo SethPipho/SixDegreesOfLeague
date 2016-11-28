@@ -1,61 +1,59 @@
-/wiki/Element|<class 'IndexError'>
-/wiki/Starky|<class 'IndexError'>
-/wiki/Fly|<class 'IndexError'>
-/wiki/MasterMinD|<class 'IndexError'>
-/wiki/Helios|<class 'IndexError'>
-/wiki/Pride|<class 'IndexError'>
-/wiki/Roar|<class 'IndexError'>
-/wiki/Exo|<class 'IndexError'>
-/wiki/NK_Adonis|<class 'IndexError'>
-/wiki/TowerFury|<class 'IndexError'>
-/wiki/SmallBrain|<class 'IndexError'>
-/wiki/Sweet|<class 'IndexError'>
-/wiki/Archie|<class 'IndexError'>
-/wiki/Riou|<class 'IndexError'>
-/wiki/Shadow|<class 'IndexError'>
-/wiki/Zor|<class 'IndexError'>
-/wiki/Vayn3z|<class 'requests.exceptions.ConnectionError'>
-/wiki/Destiny|<class 'IndexError'>
-/wiki/Snoopy|<class 'IndexError'>
-/wiki/Guardsman_Bob|<class 'IndexError'>
-/wiki/LoliTa|<class 'requests.exceptions.ConnectionError'>
-/wiki/Nova|<class 'IndexError'>
-/wiki/Bebe|<class 'IndexError'>
-/w/index.php?title=Miss&action=edit&redlink=1|<class 'IndexError'>
-/wiki/Maniaku|<class 'IndexError'>
-/wiki/SpiDerPiTv2|<class 'IndexError'>
-/wiki/Porky|<class 'IndexError'>
-/wiki/Demon|<class 'IndexError'>
-/wiki/Frather|<class 'IndexError'>
-/wiki/Prime|<class 'IndexError'>
-/wiki/Sky|<class 'IndexError'>
-/wiki/Geller|<class 'IndexError'>
-/wiki/WetDreaM|<class 'IndexError'>
-/wiki/Losys|<class 'IndexError'>
-/wiki/Soul|<class 'IndexError'>
-/wiki/Tsibastian|<class 'IndexError'>
-/wiki/Smurf|<class 'IndexError'>
-/wiki/Max|<class 'IndexError'>
-/wiki/Stark|<class 'IndexError'>
-/wiki/Noel|<class 'IndexError'>
-/wiki/Dreams|<class 'IndexError'>
-/wiki/Nexus|<class 'IndexError'>
-/wiki/Vileroze|<class 'IndexError'>
-/wiki/Robusto|<class 'IndexError'>
-/wiki/To-Do_List/Player_Example|<class 'IndexError'>
-/wiki/The_Other|<class 'IndexError'>
-/wiki/Fisch|<class 'IndexError'>
-/wiki/Astarte|<class 'IndexError'>
-/wiki/PepeTheKing|<class 'IndexError'>
-/wiki/GaLaTaS|<class 'IndexError'>
-/wiki/Beyond|<class 'IndexError'>
-/wiki/Rounders|<class 'IndexError'>
-/wiki/Tarzan|<class 'IndexError'>
-/wiki/Dragon|<class 'IndexError'>
-/wiki/Fury|<class 'IndexError'>
-/w/index.php?title=DeIord&action=edit&redlink=1|<class 'IndexError'>
-/wiki/Ghost|<class 'IndexError'>
-/wiki/Rain|<class 'IndexError'>
-/wiki/Corn|<class 'IndexError'>
-/w/index.php?title=SKasH&action=edit&redlink=1|<class 'IndexError'>
-/wiki/Holythoth|<class 'IndexError'>
+/wiki/Starkylist index out of range
+/wiki/Flylist index out of range
+/wiki/Elementlist index out of range
+/wiki/Helioslist index out of range
+/wiki/Roarlist index out of range
+/wiki/Exolist index out of range
+/wiki/SmallBrainlist index out of range
+/wiki/Archielist index out of range
+/wiki/Pridelist index out of range
+/wiki/MasterMinDlist index out of range
+/wiki/TowerFurylist index out of range
+/wiki/NK_Adonislist index out of range
+/wiki/Rioulist index out of range
+/wiki/Sweetlist index out of range
+/wiki/Maniakulist index out of range
+/wiki/Novalist index out of range
+/wiki/Snoopylist index out of range
+/wiki/Shadowlist index out of range
+/wiki/Fratherlist index out of range
+/wiki/Skylist index out of range
+/wiki/Destinylist index out of range
+/wiki/SpiDerPiTv2list index out of range
+/wiki/Porkylist index out of range
+/wiki/Zorlist index out of range
+/wiki/Guardsman_Boblist index out of range
+/wiki/Bebelist index out of range
+/w/index.php?title=Miss&action=edit&redlink=1list index out of range
+/wiki/Soullist index out of range
+/wiki/Demonlist index out of range
+/wiki/Gellerlist index out of range
+/wiki/Losyslist index out of range
+/wiki/Primelist index out of range
+/wiki/Tsibastianlist index out of range
+/wiki/WetDreaMlist index out of range
+/wiki/Smurflist index out of range
+/wiki/Maxlist index out of range
+/wiki/Nexuslist index out of range
+/wiki/To-Do_List/Player_Examplelist index out of range
+/wiki/Dreamslist index out of range
+/wiki/Noellist index out of range
+/wiki/The_Otherlist index out of range
+/wiki/Robustolist index out of range
+/wiki/Starklist index out of range
+/wiki/Vilerozelist index out of range
+/wiki/Fischlist index out of range
+/wiki/PepeTheKinglist index out of range
+/wiki/GaLaTaSlist index out of range
+/wiki/Astartelist index out of range
+/w/index.php?title=DeIord&action=edit&redlink=1list index out of range
+/wiki/Tarzanlist index out of range
+/wiki/Beyondlist index out of range
+/wiki/Rounderslist index out of range
+/wiki/Cornlist index out of range
+/wiki/Dragonlist index out of range
+/wiki/Ghostlist index out of range
+/w/index.php?title=SKasH&action=edit&redlink=1list index out of range
+/wiki/Furylist index out of range
+/wiki/Rainlist index out of range
+/wiki/Holythothlist index out of range
