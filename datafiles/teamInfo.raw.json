@@ -1,0 +1,4280 @@
+{
+    "1 Trick Ponies": {
+        "location": "North America"
+    },
+    "1907 Fenerbah\u00e7e Esports": {
+        "location": "Turkey"
+    },
+    "2144 Danmu Gaming": {
+        "location": "China"
+    },
+    "2144 Gaming": {
+        "location": "China"
+    },
+    "269 Gaming": {
+        "location": "Vietnam"
+    },
+    "2Kill Gaming": {
+        "location": "Brazil"
+    },
+    "3 Piglet": {
+        "location": "unknown"
+    },
+    "34united e-Sports Club": {
+        "location": "Spain"
+    },
+    "3DMAX": {
+        "location": "France"
+    },
+    "3sUP Enterprises": {
+        "location": "United States"
+    },
+    "4Kings": {
+        "location": "United Kingdom"
+    },
+    "4Not.Fire": {
+        "location": "Canada"
+    },
+    "4everzenzyg": {
+        "location": "Denmark"
+    },
+    "5 Deadly Sins": {
+        "location": "unknown"
+    },
+    "7 Belo": {
+        "location": "unknown"
+    },
+    "7B e-Sports": {
+        "location": "unknown"
+    },
+    "7b eSports": {
+        "location": "unknown"
+    },
+    "7th heaven": {
+        "location": "Japan"
+    },
+    "7th heaven X": {
+        "location": "Japan"
+    },
+    "A Little Bear": {
+        "location": "unknown"
+    },
+    "AD Gaming": {
+        "location": "China"
+    },
+    "ALSEN Team": {
+        "location": "unknown"
+    },
+    "ANG Academy": {
+        "location": "unknown"
+    },
+    "ANT Gaming": {
+        "location": "Turkey"
+    },
+    "APictureOfAGoose": {
+        "location": "United States"
+    },
+    "ASES e-Sports Club": {
+        "location": "unknown"
+    },
+    "ASUS ROG Army": {
+        "location": "Spain"
+    },
+    "AT Gaming": {
+        "location": "Netherlands"
+    },
+    "ATLAS eSports Team": {
+        "location": "Turkey"
+    },
+    "Absolute": {
+        "location": "Australia"
+    },
+    "Absolute Legends": {
+        "location": "Europe"
+    },
+    "Absolute Legends NA": {
+        "location": "United States"
+    },
+    "Absolute Legends SG": {
+        "location": "Singapore"
+    },
+    "Absolute Legends.Alpha": {
+        "location": "Europe"
+    },
+    "Absolute Legends.Omega": {
+        "location": "unknown"
+    },
+    "Abyss Esports": {
+        "location": "Australia"
+    },
+    "Abyss Esports Red": {
+        "location": "Australia"
+    },
+    "AceZone Alliance": {
+        "location": "unknown"
+    },
+    "AceZone e-Sports": {
+        "location": "unknown"
+    },
+    "Acer Green Team": {
+        "location": "Thailand"
+    },
+    "Aces Full Esports Club": {
+        "location": "Turkey"
+    },
+    "Aces High Esports Club": {
+        "location": "Turkey"
+    },
+    "Action Team eSports": {
+        "location": "Brazil"
+    },
+    "Adeks e-Sports": {
+        "location": "unknown"
+    },
+    "Adversa eSports": {
+        "location": "unknown"
+    },
+    "Aequus Club": {
+        "location": "unknown"
+    },
+    "Aesthetic Gaming": {
+        "location": "unknown"
+    },
+    "Afreeca Freecs": {
+        "location": "South Korea"
+    },
+    "AgFox": {
+        "location": "unknown"
+    },
+    "Against the Wall": {
+        "location": "unknown"
+    },
+    "Agresiv": {
+        "location": "Argentina"
+    },
+    "Ahraz Esports": {
+        "location": "unknown"
+    },
+    "Akiba Bullets": {
+        "location": "unknown"
+    },
+    "Akiba Slayers": {
+        "location": "unknown"
+    },
+    "Albus NoX Cometa": {
+        "location": "unknown"
+    },
+    "Albus NoX Luna": {
+        "location": "Russia"
+    },
+    "Alienware Arena": {
+        "location": "South Korea"
+    },
+    "All or Nothing": {
+        "location": "unknown"
+    },
+    "AllLaneCarry": {
+        "location": "unknown"
+    },
+    "Alliance": {
+        "location": "Sweden"
+    },
+    "Alpha Sydney": {
+        "location": "Australia"
+    },
+    "Alpha Team": {
+        "location": "Hong Kong"
+    },
+    "Also Known As": {
+        "location": "North America"
+    },
+    "Always With Honor": {
+        "location": "Turkey"
+    },
+    "An Phat Ultimate": {
+        "location": "Vietnam"
+    },
+    "Anarchy": {
+        "location": "South Korea"
+    },
+    "Anexis eSports": {
+        "location": "Germany"
+    },
+    "Animate eSports": {
+        "location": "United Kingdom"
+    },
+    "ApeX R Gaming": {
+        "location": "Japan"
+    },
+    "Apex Gaming": {
+        "location": "North America"
+    },
+    "Apex Pride": {
+        "location": "North America"
+    },
+    "Arairhor": {
+        "location": "unknown"
+    },
+    "Area of Effect eSports": {
+        "location": "North America"
+    },
+    "Aria eSports": {
+        "location": "unknown"
+    },
+    "Arise Team": {
+        "location": "unknown"
+    },
+    "Armata Gaming": {
+        "location": "unknown"
+    },
+    "Arsenal": {
+        "location": "North America"
+    },
+    "Art of War": {
+        "location": "unknown"
+    },
+    "Ascension": {
+        "location": "unknown"
+    },
+    "Assassin Sniper": {
+        "location": "Taiwan"
+    },
+    "Astral Authority": {
+        "location": "North America"
+    },
+    "Atlantis eSports": {
+        "location": "unknown"
+    },
+    "AtroX eSports": {
+        "location": "unknown"
+    },
+    "Avalanche Russian Rangers": {
+        "location": "unknown"
+    },
+    "Avalanche eSports Prime": {
+        "location": "unknown"
+    },
+    "Avamt Academy": {
+        "location": "unknown"
+    },
+    "Avant Academy": {
+        "location": "unknown"
+    },
+    "Avant Garde": {
+        "location": "Australia"
+    },
+    "Avant Garde Ascension": {
+        "location": "Australia"
+    },
+    "Avant Garde Redemption": {
+        "location": "Australia"
+    },
+    "Awake": {
+        "location": "unknown"
+    },
+    "Aware Gaming": {
+        "location": "North America"
+    },
+    "Awsomniac": {
+        "location": "France"
+    },
+    "Aztek Gaming": {
+        "location": "unknown"
+    },
+    "Azubu Blaze": {
+        "location": "South Korea"
+    },
+    "Azubu Frost": {
+        "location": "South Korea"
+    },
+    "Azure Cats": {
+        "location": "North America"
+    },
+    "Azure Gaming": {
+        "location": "North America"
+    },
+    "BEHIVE e-Sports": {
+        "location": "unknown"
+    },
+    "BLAST": {
+        "location": "unknown"
+    },
+    "BX3 EK": {
+        "location": "unknown"
+    },
+    "Baby Build House": {
+        "location": "unknown"
+    },
+    "Ban Karma Gaming": {
+        "location": "unknown"
+    },
+    "Bangkok Titans": {
+        "location": "Thailand"
+    },
+    "Baskonia Atlantis": {
+        "location": "unknown"
+    },
+    "Baskonia eSports": {
+        "location": "Spain"
+    },
+    "Be a Legend": {
+        "location": "unknown"
+    },
+    "Beast Mode": {
+        "location": "Chile"
+    },
+    "Beautiful Life Gaming": {
+        "location": "unknown"
+    },
+    "Bencheados": {
+        "location": "Chile"
+    },
+    "Bencheados de KLG": {
+        "location": "Chile"
+    },
+    "Benched Gaming": {
+        "location": "Europe"
+    },
+    "Best Players Ocean": {
+        "location": "unknown"
+    },
+    "Best UK Team Kappa": {
+        "location": "unknown"
+    },
+    "Be\u015fikta\u015f Black Eagles": {
+        "location": "unknown"
+    },
+    "Be\u015fikta\u015f e-Sports Club": {
+        "location": "Turkey"
+    },
+    "Be\u015fikta\u015f.OH": {
+        "location": "Turkey"
+    },
+    "Bida Gaming": {
+        "location": "unknown"
+    },
+    "Big Gods": {
+        "location": "Brazil"
+    },
+    "Big Plays Incorporated": {
+        "location": "Turkey"
+    },
+    "Bigfile Amor": {
+        "location": "unknown"
+    },
+    "Bigfile Miracle": {
+        "location": "South Korea"
+    },
+    "Black Ravens": {
+        "location": "unknown"
+    },
+    "BlackThorn Gaming": {
+        "location": "unknown"
+    },
+    "Blackbean": {
+        "location": "Thailand"
+    },
+    "Boba Marines": {
+        "location": "Vietnam"
+    },
+    "Bonjwas": {
+        "location": "unknown"
+    },
+    "Bonobo eSport Gaming": {
+        "location": "unknown"
+    },
+    "Born to Kill": {
+        "location": "Chile"
+    },
+    "Bottled Water": {
+        "location": "unknown"
+    },
+    "Brave e-Sports": {
+        "location": "Brazil"
+    },
+    "BrawL eSports": {
+        "location": "Mexico"
+    },
+    "BrawL.NA": {
+        "location": "North America"
+    },
+    "British Tea Time": {
+        "location": "United Kingdom"
+    },
+    "Broski": {
+        "location": "unknown"
+    },
+    "Bullets eSports": {
+        "location": "Chile"
+    },
+    "CCM": {
+        "location": "China"
+    },
+    "CDAY Gaming": {
+        "location": "unknown"
+    },
+    "CGA LEGENDs": {
+        "location": "Hong Kong"
+    },
+    "CJ Entus": {
+        "location": "South Korea"
+    },
+    "CJ Entus Blaze": {
+        "location": "South Korea"
+    },
+    "CJ Entus Frost": {
+        "location": "South Korea"
+    },
+    "CLG Black": {
+        "location": "United States"
+    },
+    "CLG Europe": {
+        "location": "Europe"
+    },
+    "CLG Prime": {
+        "location": "Canada"
+    },
+    "CNB Brutalizer": {
+        "location": "unknown"
+    },
+    "CNB Infinity": {
+        "location": "Brazil"
+    },
+    "CNB Trinity Blue": {
+        "location": "unknown"
+    },
+    "CNB Trinity White": {
+        "location": "unknown"
+    },
+    "CNB e-Sports Club": {
+        "location": "Brazil"
+    },
+    "COGnitive Gaming": {
+        "location": "North America"
+    },
+    "COGnitive Gaming Forge": {
+        "location": "unknown"
+    },
+    "COREPLAY": {
+        "location": "Germany"
+    },
+    "COUGAR E-Sport": {
+        "location": "Taiwan"
+    },
+    "CSG Gaming": {
+        "location": "Mexico"
+    },
+    "CTU Pathos": {
+        "location": "South Korea"
+    },
+    "CTU Revolt": {
+        "location": "unknown"
+    },
+    "CW Academy": {
+        "location": "Denmark"
+    },
+    "Call Gaming": {
+        "location": "United States"
+    },
+    "Canis Lupus Campestris": {
+        "location": "China"
+    },
+    "Carpe Diem": {
+        "location": "Europe"
+    },
+    "Caseking Gaming": {
+        "location": "unknown"
+    },
+    "Celerius e-Sports": {
+        "location": "unknown"
+    },
+    "Celestial Gaming": {
+        "location": "unknown"
+    },
+    "Centus Gaming": {
+        "location": "unknown"
+    },
+    "Cerberus e-Sports Club": {
+        "location": "Spain"
+    },
+    "Cerberus eSports": {
+        "location": "unknown"
+    },
+    "Cerebral Infantile Sharks": {
+        "location": "unknown"
+    },
+    "Cheetahs": {
+        "location": "Taiwan"
+    },
+    "ChiLeanFivE": {
+        "location": "Chile"
+    },
+    "ChiLeanFivE Hopes": {
+        "location": "Chile"
+    },
+    "ChiLeanFivE The Legacy": {
+        "location": "Chile"
+    },
+    "Chiefs Black": {
+        "location": "Australia"
+    },
+    "China Korea Dragonz": {
+        "location": "unknown"
+    },
+    "Choke Gaming": {
+        "location": "unknown"
+    },
+    "Choppa In Da Car": {
+        "location": "unknown"
+    },
+    "Chungcheongnam": {
+        "location": "unknown"
+    },
+    "Chunnam Techno University": {
+        "location": "South Korea"
+    },
+    "Chuuper's Troopers": {
+        "location": "unknown"
+    },
+    "Clan Poland": {
+        "location": "unknown"
+    },
+    "Clanless": {
+        "location": "unknown"
+    },
+    "Cloud9": {
+        "location": "United States"
+    },
+    "Cloud9 Challenger": {
+        "location": "United States"
+    },
+    "Cloud9 Eclipse": {
+        "location": "Europe"
+    },
+    "Cloud9 Tempest": {
+        "location": "United States"
+    },
+    "Coliseo Dragons": {
+        "location": "Argentina"
+    },
+    "Comando Elite e-Sports": {
+        "location": "Spain"
+    },
+    "Competo Sports": {
+        "location": "unknown"
+    },
+    "CooLife Gaming": {
+        "location": "unknown"
+    },
+    "Copenhagen Wolves": {
+        "location": "Denmark"
+    },
+    "Corsair": {
+        "location": "Taiwan"
+    },
+    "Could Have Been Stronk": {
+        "location": "unknown"
+    },
+    "Counter Counter Clockwise": {
+        "location": "Europe"
+    },
+    "Counter Logic Gaming": {
+        "location": "Canada"
+    },
+    "Creta Gaming": {
+        "location": "unknown"
+    },
+    "Crew e-Sports Club": {
+        "location": "Turkey"
+    },
+    "CrossGaming": {
+        "location": "Hong Kong"
+    },
+    "Crossover eSports": {
+        "location": "unknown"
+    },
+    "Crowd Control": {
+        "location": "unknown"
+    },
+    "Curse Academy": {
+        "location": "North America"
+    },
+    "Cursed Giants": {
+        "location": "unknown"
+    },
+    "Cursed Rage": {
+        "location": "Chile"
+    },
+    "Cyber Gamer e-Sports": {
+        "location": "unknown"
+    },
+    "CyberTeK-Gaming": {
+        "location": "unknown"
+    },
+    "Czas Rozliczen": {
+        "location": "unknown"
+    },
+    "Czas Rozlicze\u0144": {
+        "location": "unknown"
+    },
+    "DD2": {
+        "location": "unknown"
+    },
+    "DELTAeSPORTS": {
+        "location": "unknown"
+    },
+    "DK Team": {
+        "location": "unknown"
+    },
+    "DRUCKWELLE": {
+        "location": "unknown"
+    },
+    "DSO": {
+        "location": "unknown"
+    },
+    "Dadslammers": {
+        "location": "North America"
+    },
+    "Dai Dai Gaming": {
+        "location": "unknown"
+    },
+    "DaiDai Gaming": {
+        "location": "unknown"
+    },
+    "Dank Dang Gaming": {
+        "location": "unknown"
+    },
+    "Dank Memers": {
+        "location": "unknown"
+    },
+    "Dark Horse": {
+        "location": "Chile"
+    },
+    "Dark Passage": {
+        "location": "Turkey"
+    },
+    "Dark Passage White": {
+        "location": "Turkey"
+    },
+    "Dark Wolves": {
+        "location": "South Korea"
+    },
+    "Darkness": {
+        "location": "unknown"
+    },
+    "DarlingYou": {
+        "location": "Taiwan"
+    },
+    "Dash9 Gaming": {
+        "location": "Colombia"
+    },
+    "DatZit Gaming Fire": {
+        "location": "unknown"
+    },
+    "DatZit Gaming Ice": {
+        "location": "unknown"
+    },
+    "DeToNator": {
+        "location": "unknown"
+    },
+    "Deadnakai Gaming": {
+        "location": "unknown"
+    },
+    "Debilos Mentalos": {
+        "location": "unknown"
+    },
+    "Dednakai Gaming": {
+        "location": "unknown"
+    },
+    "Defenders": {
+        "location": "Taiwan"
+    },
+    "Denial eSports": {
+        "location": "North America"
+    },
+    "Denial eSports EU": {
+        "location": "North America"
+    },
+    "Denial eSports.East": {
+        "location": "North America"
+    },
+    "Denial eSports.West": {
+        "location": "North America"
+    },
+    "Departed": {
+        "location": "Poland"
+    },
+    "Desert Wolves": {
+        "location": "unknown"
+    },
+    "Destined For Glory": {
+        "location": "North America"
+    },
+    "Destroy Gaming": {
+        "location": "unknown"
+    },
+    "Determined Gaming": {
+        "location": "North America"
+    },
+    "DetonatioN FocusMe": {
+        "location": "Japan"
+    },
+    "DetonatioN RabbitFive": {
+        "location": "Japan"
+    },
+    "DetonatioN Rising": {
+        "location": "Japan"
+    },
+    "Dexter is actually evil": {
+        "location": "unknown"
+    },
+    "Dexterity Team": {
+        "location": "Brazil"
+    },
+    "Diam La Gaming": {
+        "location": "unknown"
+    },
+    "Diamond Team": {
+        "location": "Philippines"
+    },
+    "Different Dimension": {
+        "location": "Greece"
+    },
+    "Dimegio Club": {
+        "location": "Spain"
+    },
+    "Dire Wolves": {
+        "location": "Australia"
+    },
+    "Dirt Nap Gaming": {
+        "location": "United States"
+    },
+    "Dirt Nap Gaming.JustTheUsual": {
+        "location": "United States"
+    },
+    "Disciples of Da Gr8 Whale Lord": {
+        "location": "unknown"
+    },
+    "Distrikt": {
+        "location": "unknown"
+    },
+    "DnG.Panda": {
+        "location": "unknown"
+    },
+    "DnH Advance": {
+        "location": "Mexico"
+    },
+    "DnH V Exiles": {
+        "location": "unknown"
+    },
+    "Dolphins of Wall Street": {
+        "location": "Europe"
+    },
+    "DomoSoCute": {
+        "location": "Taiwan"
+    },
+    "Donate Me Please": {
+        "location": "unknown"
+    },
+    "DoubleBuff": {
+        "location": "United States"
+    },
+    "Dragon Team": {
+        "location": "Russia"
+    },
+    "DragonBorns": {
+        "location": "Europe"
+    },
+    "Dragons": {
+        "location": "Spain"
+    },
+    "Dream": {
+        "location": "unknown"
+    },
+    "Dream Catcher": {
+        "location": "China"
+    },
+    "Dream Catcher Gaming": {
+        "location": "Taiwan"
+    },
+    "Dream Team": {
+        "location": "North America"
+    },
+    "Dream or Reality": {
+        "location": "Taiwan"
+    },
+    "DreamCatcher": {
+        "location": "Taiwan"
+    },
+    "Drub eSports": {
+        "location": "unknown"
+    },
+    "Druidz E-Sport Europe": {
+        "location": "Sweden"
+    },
+    "Druken Bear": {
+        "location": "unknown"
+    },
+    "Duck In a Box": {
+        "location": "Indonesia"
+    },
+    "Ducks on Fire": {
+        "location": "Peru"
+    },
+    "Dulcet Essence": {
+        "location": "Malaysia"
+    },
+    "DxG Coup de Grace": {
+        "location": "unknown"
+    },
+    "Dynasty Gaming": {
+        "location": "Argentina"
+    },
+    "E corp Gentle": {
+        "location": "unknown"
+    },
+    "E-corp Gaming": {
+        "location": "Switzerland"
+    },
+    "EBD LEGENDs": {
+        "location": "Hong Kong"
+    },
+    "ECVisualize": {
+        "location": "unknown"
+    },
+    "EDward Esports": {
+        "location": "China"
+    },
+    "EDward Gaming": {
+        "location": "China"
+    },
+    "EDward Gaming Future": {
+        "location": "China"
+    },
+    "EHOME": {
+        "location": "China"
+    },
+    "EQUALITY": {
+        "location": "unknown"
+    },
+    "ESC Ever": {
+        "location": "South Korea"
+    },
+    "ESC Gaming": {
+        "location": "Germany"
+    },
+    "ESC Gaming Europe": {
+        "location": "Europe"
+    },
+    "EURONICS Gaming": {
+        "location": "Germany"
+    },
+    "EYES ON U": {
+        "location": "Germany"
+    },
+    "EYES ON U Europe": {
+        "location": "Germany"
+    },
+    "Eanix": {
+        "location": "North America"
+    },
+    "Eat Sleep Game": {
+        "location": "South Korea"
+    },
+    "Echo Fox": {
+        "location": "North America"
+    },
+    "Eclypsia": {
+        "location": "France"
+    },
+    "Eclypsia.Luna": {
+        "location": "France"
+    },
+    "Eclypsia.Solaris": {
+        "location": "France"
+    },
+    "Elements": {
+        "location": "Europe"
+    },
+    "Elements Gaming": {
+        "location": "unknown"
+    },
+    "Elite Masters": {
+        "location": "Uruguay"
+    },
+    "EloHell": {
+        "location": "Poland"
+    },
+    "Elomingle": {
+        "location": "North America"
+    },
+    "Ember": {
+        "location": "North America"
+    },
+    "Enemy": {
+        "location": "North America"
+    },
+    "Enemy Rampage": {
+        "location": "unknown"
+    },
+    "Energy Pacemaker": {
+        "location": "Hong Kong"
+    },
+    "Energy Pacemaker.All": {
+        "location": "China"
+    },
+    "Energy Pacemaker.Carries": {
+        "location": "China"
+    },
+    "Energy Pacemaker.Fearless": {
+        "location": "unknown"
+    },
+    "Energy Pacemaker.Future": {
+        "location": "unknown"
+    },
+    "Energy Pacemaker.HK": {
+        "location": "Hong Kong"
+    },
+    "Energy Pacemaker.The One": {
+        "location": "China"
+    },
+    "Energy Pacemaker.YCSM": {
+        "location": "Hong Kong"
+    },
+    "Enigma Esports": {
+        "location": "unknown"
+    },
+    "Epic Paradise": {
+        "location": "unknown"
+    },
+    "Epik Gamer": {
+        "location": "United States"
+    },
+    "Epiphany Bolt": {
+        "location": "United Kingdom"
+    },
+    "Epsilon eSports": {
+        "location": "Belgium"
+    },
+    "Equitum Gaming": {
+        "location": "unknown"
+    },
+    "Escalate Legion Gaming": {
+        "location": "unknown"
+    },
+    "Escape the Ninja Pandas": {
+        "location": "unknown"
+    },
+    "Esport4Life": {
+        "location": "Europe"
+    },
+    "Esquadr\u00e3o Classe A": {
+        "location": "unknown"
+    },
+    "Est\u00fadio XP e-Sports": {
+        "location": "Brazil"
+    },
+    "Eternity Gaming": {
+        "location": "United Kingdom"
+    },
+    "Ever8 Winners": {
+        "location": "South Korea"
+    },
+    "Evil Geniuses": {
+        "location": "North America"
+    },
+    "Evil Sharks": {
+        "location": "unknown"
+    },
+    "Ex Dreamers": {
+        "location": "unknown"
+    },
+    "Ex Nihilo": {
+        "location": "United Kingdom"
+    },
+    "Exceltec E-Sports": {
+        "location": "unknown"
+    },
+    "Exceltec Predators": {
+        "location": "unknown"
+    },
+    "Exertus Esports": {
+        "location": "unknown"
+    },
+    "Exertus eSports Zeal": {
+        "location": "unknown"
+    },
+    "Exgs": {
+        "location": "Singapore"
+    },
+    "Exile": {
+        "location": "Philippines"
+    },
+    "Exile 5": {
+        "location": "unknown"
+    },
+    "Exotic Island Gaming": {
+        "location": "unknown"
+    },
+    "Expert Players": {
+        "location": "unknown"
+    },
+    "Extreme Dive Gaming": {
+        "location": "unknown"
+    },
+    "F4F e-Sports": {
+        "location": "unknown"
+    },
+    "FC Schalke 04": {
+        "location": "Germany"
+    },
+    "FIGJAM": {
+        "location": "unknown"
+    },
+    "FM eSports": {
+        "location": "United Kingdom"
+    },
+    "FMF eSports Club": {
+        "location": "unknown"
+    },
+    "FXOpen e-Sports": {
+        "location": "North America"
+    },
+    "Faceless Order": {
+        "location": "unknown"
+    },
+    "Falafel Gaming": {
+        "location": "unknown"
+    },
+    "Feint Gaming": {
+        "location": "Argentina"
+    },
+    "Fiction eSports": {
+        "location": "United States"
+    },
+    "Fidelis": {
+        "location": "unknown"
+    },
+    "Final Five": {
+        "location": "United States"
+    },
+    "Fission Esports": {
+        "location": "United States"
+    },
+    "Flash Husky": {
+        "location": "Taiwan"
+    },
+    "Flash Wolves": {
+        "location": "Taiwan"
+    },
+    "Flash Wolves Girls": {
+        "location": "Taiwan"
+    },
+    "Flash Wolves Junior": {
+        "location": "Taiwan"
+    },
+    "Flashback": {
+        "location": "unknown"
+    },
+    "Flashdive": {
+        "location": "Thailand"
+    },
+    "FlipSide E-Sports": {
+        "location": "unknown"
+    },
+    "Fluffy Gaming": {
+        "location": "unknown"
+    },
+    "Fnatic": {
+        "location": "United Kingdom"
+    },
+    "Fnatic Academy": {
+        "location": "United Kingdom"
+    },
+    "Fnatic.Beta": {
+        "location": "United Kingdom"
+    },
+    "Follow eSports": {
+        "location": "Europe"
+    },
+    "For The Win": {
+        "location": "Taiwan"
+    },
+    "For The Win eSports": {
+        "location": "Portugal"
+    },
+    "Force Of Nature": {
+        "location": "Argentina"
+    },
+    "Fortius": {
+        "location": "unknown"
+    },
+    "Forty Bus Gaming": {
+        "location": "unknown"
+    },
+    "Frag eXecutors": {
+        "location": "Poland"
+    },
+    "Frank Fang Gaming": {
+        "location": "North America"
+    },
+    "Fraternitas": {
+        "location": "unknown"
+    },
+    "Freedom Dive": {
+        "location": "Argentina"
+    },
+    "Frenetic Array": {
+        "location": "unknown"
+    },
+    "Frequency Gaming": {
+        "location": "unknown"
+    },
+    "Friday Night": {
+        "location": "unknown"
+    },
+    "Fr\u00e8res Du Purgatoire": {
+        "location": "unknown"
+    },
+    "Full Louis": {
+        "location": "Vietnam"
+    },
+    "FurIR": {
+        "location": "unknown"
+    },
+    "Fureur": {
+        "location": "unknown"
+    },
+    "Furious Gaming": {
+        "location": "Argentina"
+    },
+    "Furious Gaming Academy": {
+        "location": "unknown"
+    },
+    "Future Fighters eSports": {
+        "location": "unknown"
+    },
+    "G2 Esports": {
+        "location": "Spain"
+    },
+    "G2 Vodafone": {
+        "location": "Spain"
+    },
+    "G5 E-Sport Fate Team": {
+        "location": "Vietnam"
+    },
+    "GE Tigers": {
+        "location": "South Korea"
+    },
+    "GF-Gaming": {
+        "location": "Poland"
+    },
+    "GG Call Nash": {
+        "location": "France"
+    },
+    "GIVE IT ALL": {
+        "location": "unknown"
+    },
+    "GSG": {
+        "location": "South Korea"
+    },
+    "GSI Gaming": {
+        "location": "France"
+    },
+    "GSU Gaming": {
+        "location": "unknown"
+    },
+    "GSU Gaming aXe": {
+        "location": "unknown"
+    },
+    "GSU aXe": {
+        "location": "unknown"
+    },
+    "Galactic Gamers": {
+        "location": "Mexico"
+    },
+    "Gamania Bears": {
+        "location": "Taiwan"
+    },
+    "Gambit Gaming": {
+        "location": "United Kingdom"
+    },
+    "Gambit.CIS": {
+        "location": "United Kingdom"
+    },
+    "Game Hunters": {
+        "location": "unknown"
+    },
+    "Game Over": {
+        "location": "unknown"
+    },
+    "Game Talents": {
+        "location": "China"
+    },
+    "GameEkstra": {
+        "location": "Turkey"
+    },
+    "GameSatis": {
+        "location": "unknown"
+    },
+    "GameTV": {
+        "location": "unknown"
+    },
+    "Gameburg Team": {
+        "location": "Poland"
+    },
+    "Gamehoppers.eu": {
+        "location": "Europe"
+    },
+    "Gamers2": {
+        "location": "Spain"
+    },
+    "GamesterGear": {
+        "location": "unknown"
+    },
+    "Gaming Gaming": {
+        "location": "Mexico"
+    },
+    "GamingGear.eu": {
+        "location": "Lithuania"
+    },
+    "Gamtee": {
+        "location": "China"
+    },
+    "Garena": {
+        "location": "Singapore"
+    },
+    "Garena Team": {
+        "location": "Southeast Asia"
+    },
+    "GashBears": {
+        "location": "Taiwan"
+    },
+    "Gathers e-Sports": {
+        "location": "unknown"
+    },
+    "Genetic Gaming": {
+        "location": "unknown"
+    },
+    "Get Over It": {
+        "location": "unknown"
+    },
+    "Giants Gaming": {
+        "location": "Spain"
+    },
+    "Giants Only The Brave": {
+        "location": "Spain"
+    },
+    "Giants Underdoges": {
+        "location": "Spain"
+    },
+    "Girlfriends": {
+        "location": "North America"
+    },
+    "Glacial Phoenix": {
+        "location": "Russia"
+    },
+    "Go To Sleep": {
+        "location": "Thailand"
+    },
+    "Godzilla Queen": {
+        "location": "United Kingdom"
+    },
+    "Gold Gaming LA": {
+        "location": "United States"
+    },
+    "Good Game University": {
+        "location": "North America"
+    },
+    "Good Team Multigaming": {
+        "location": "Russia"
+    },
+    "Gosu All Stars": {
+        "location": "unknown"
+    },
+    "Gravity": {
+        "location": "North America"
+    },
+    "Grumpy Wolves": {
+        "location": "unknown"
+    },
+    "Gr\u00fczowe Chrabaszcze": {
+        "location": "unknown"
+    },
+    "Guerreros del Mouse": {
+        "location": "Argentina"
+    },
+    "Gunwa": {
+        "location": "unknown"
+    },
+    "H2k-Gaming": {
+        "location": "United Kingdom"
+    },
+    "HCL Gaming": {
+        "location": "unknown"
+    },
+    "HDYS": {
+        "location": "unknown"
+    },
+    "HGD": {
+        "location": "South Korea"
+    },
+    "HITBOX e-Sports": {
+        "location": "unknown"
+    },
+    "HK Attitude": {
+        "location": "Hong Kong"
+    },
+    "HK Attitude Mage": {
+        "location": "Taiwan"
+    },
+    "HK Attitude Priest": {
+        "location": "Taiwan"
+    },
+    "HKEGG": {
+        "location": "unknown"
+    },
+    "HOODSTOMPGRAVESGG": {
+        "location": "unknown"
+    },
+    "HWA Gaming": {
+        "location": "Turkey"
+    },
+    "Hafnet eSports": {
+        "location": "Argentina"
+    },
+    "HanGong Clan": {
+        "location": "China"
+    },
+    "Hanoi Dragons": {
+        "location": "Vietnam"
+    },
+    "Hanoi Fate": {
+        "location": "Vietnam"
+    },
+    "Hanoi Phoenix": {
+        "location": "unknown"
+    },
+    "Hanoi SnowBall": {
+        "location": "unknown"
+    },
+    "Hard Random": {
+        "location": "Russia"
+    },
+    "Hard Random Academy": {
+        "location": "unknown"
+    },
+    "Havoks Gaming": {
+        "location": "Mexico"
+    },
+    "Heat Wave": {
+        "location": "Taiwan"
+    },
+    "Heavy Artillery": {
+        "location": "Taiwan"
+    },
+    "Heavy Botlane": {
+        "location": "Europe"
+    },
+    "Heimerdinger's Colossi": {
+        "location": "Europe"
+    },
+    "Hellions e-Sports Club": {
+        "location": "Australia"
+    },
+    "Helter Skelter": {
+        "location": "unknown"
+    },
+    "Heroes Team": {
+        "location": "Poland"
+    },
+    "Heroic eSports": {
+        "location": "unknown"
+    },
+    "High Sea Tigers": {
+        "location": "unknown"
+    },
+    "HoL Elements": {
+        "location": "unknown"
+    },
+    "HollowHeroes": {
+        "location": "unknown"
+    },
+    "Holy Sheep": {
+        "location": "unknown"
+    },
+    "Holynn": {
+        "location": "unknown"
+    },
+    "Hong Kong Carries": {
+        "location": "Hong Kong"
+    },
+    "Hong Kong Esports": {
+        "location": "Hong Kong"
+    },
+    "Hoon Good Day": {
+        "location": "South Korea"
+    },
+    "Huma": {
+        "location": "United Kingdom"
+    },
+    "Hydrus Gaming": {
+        "location": "unknown"
+    },
+    "Hyper": {
+        "location": "unknown"
+    },
+    "Hyper Youth Gaming": {
+        "location": "China"
+    },
+    "Hyperion E-Sports": {
+        "location": "unknown"
+    },
+    "Hyperion eSports": {
+        "location": "unknown"
+    },
+    "I May": {
+        "location": "China"
+    },
+    "I'll Carry U": {
+        "location": "unknown"
+    },
+    "IMP e-Sports": {
+        "location": "Brazil"
+    },
+    "IN Gaming": {
+        "location": "China"
+    },
+    "INTZ Red": {
+        "location": "Brazil"
+    },
+    "INTZ e-Sports": {
+        "location": "Brazil"
+    },
+    "INVADERS": {
+        "location": "United Kingdom"
+    },
+    "IWantCookie": {
+        "location": "Europe"
+    },
+    "IceLanD": {
+        "location": "Hong Kong"
+    },
+    "Icicle Blade": {
+        "location": "unknown"
+    },
+    "Icicle Shield": {
+        "location": "unknown"
+    },
+    "Icosaedro TRUNCADO": {
+        "location": "unknown"
+    },
+    "Iguana eSports": {
+        "location": "Germany"
+    },
+    "Ildal Lions": {
+        "location": "unknown"
+    },
+    "Ilha da Macacada Gaming": {
+        "location": "Brazil"
+    },
+    "Illuminar Honor Gaming": {
+        "location": "Poland"
+    },
+    "Imaginary Gaming": {
+        "location": "France"
+    },
+    "Immortals": {
+        "location": "United States"
+    },
+    "Imperial Esports": {
+        "location": "Turkey"
+    },
+    "Imperium Pro Team": {
+        "location": "Philippines"
+    },
+    "Imperium Pro Team Blue": {
+        "location": "unknown"
+    },
+    "Imperium Pro Team Fury": {
+        "location": "Philippines"
+    },
+    "Impunity Legends": {
+        "location": "Singapore"
+    },
+    "InFamouS Esport": {
+        "location": "France"
+    },
+    "Incredible Miracle": {
+        "location": "South Korea"
+    },
+    "Incredible Miracle 1": {
+        "location": "South Korea"
+    },
+    "Incredible Miracle 2": {
+        "location": "South Korea"
+    },
+    "Incredible Miracle Athena": {
+        "location": "South Korea"
+    },
+    "Infernal Specters": {
+        "location": "unknown"
+    },
+    "Infernum Gaming": {
+        "location": "Australia"
+    },
+    "Infinite Odds": {
+        "location": "North America"
+    },
+    "Infinity Esports": {
+        "location": "United States"
+    },
+    "Infinity eSports CR": {
+        "location": "Costa Rica"
+    },
+    "Influxo Gaming": {
+        "location": "unknown"
+    },
+    "Inglorious Retards": {
+        "location": "unknown"
+    },
+    "Insane Fast Footwork": {
+        "location": "unknown"
+    },
+    "Insidious Gaming": {
+        "location": "Singapore"
+    },
+    "Insidious Gaming Candy": {
+        "location": "Malaysia"
+    },
+    "Insidious Gaming Demons": {
+        "location": "unknown"
+    },
+    "Insidious Gaming Exile": {
+        "location": "Singapore"
+    },
+    "Insidious Gaming KTB": {
+        "location": "Malaysia"
+    },
+    "Insidious Gaming Legends": {
+        "location": "Singapore"
+    },
+    "Insidious Gaming Outlaw": {
+        "location": "Singapore"
+    },
+    "Insidious Gaming Rebirth": {
+        "location": "Singapore"
+    },
+    "Insight eSports": {
+        "location": "Brazil"
+    },
+    "Inspire eSports": {
+        "location": "Germany"
+    },
+    "Instruments of Surrender": {
+        "location": "Ukraine"
+    },
+    "Intellectual Playground": {
+        "location": "Denmark"
+    },
+    "Internationally V": {
+        "location": "Russia"
+    },
+    "Invictus Gaming": {
+        "location": "China"
+    },
+    "Invictus Gaming Young": {
+        "location": "China"
+    },
+    "Iron Hawks e-Sports": {
+        "location": "Brazil"
+    },
+    "Isurus Gaming": {
+        "location": "Argentina"
+    },
+    "Isurus Gaming Chile": {
+        "location": "Chile"
+    },
+    "It's Gosu eSports": {
+        "location": "unknown"
+    },
+    "J Team": {
+        "location": "Taiwan"
+    },
+    "JAYOB e-Sports": {
+        "location": "Brazil"
+    },
+    "JYAJ": {
+        "location": "unknown"
+    },
+    "Jakarta Juggernauts": {
+        "location": "Indonesia"
+    },
+    "Jin Air Green Wings": {
+        "location": "South Korea"
+    },
+    "Jin Air Green Wings Falcons": {
+        "location": "South Korea"
+    },
+    "Jin Air Green Wings Stealths": {
+        "location": "South Korea"
+    },
+    "Judgement": {
+        "location": "unknown"
+    },
+    "Just Toys Havoks": {
+        "location": "Mexico"
+    },
+    "Just Your Average Joes": {
+        "location": "unknown"
+    },
+    "K-RNAGE ESPORT": {
+        "location": "unknown"
+    },
+    "K1ck Black": {
+        "location": "Portugal"
+    },
+    "KINGDOM": {
+        "location": "Japan"
+    },
+    "KIYF Logitech": {
+        "location": "Spain"
+    },
+    "KOO Tigers": {
+        "location": "South Korea"
+    },
+    "KT Rolster": {
+        "location": "South Korea"
+    },
+    "KT Rolster A": {
+        "location": "South Korea"
+    },
+    "KT Rolster Arrows": {
+        "location": "South Korea"
+    },
+    "KT Rolster B": {
+        "location": "South Korea"
+    },
+    "KT Rolster Bullets": {
+        "location": "South Korea"
+    },
+    "KaBuM! Black": {
+        "location": "Brazil"
+    },
+    "KaBuM! Orange": {
+        "location": "Brazil"
+    },
+    "KaBuM! e-Sports": {
+        "location": "Brazil"
+    },
+    "Kanaya Gaming": {
+        "location": "Indonesia"
+    },
+    "Kaos Latin Gamers": {
+        "location": "Chile"
+    },
+    "Kappa Team": {
+        "location": "unknown"
+    },
+    "Karnage eSports": {
+        "location": "unknown"
+    },
+    "Karont3 e-Sports Club": {
+        "location": "Spain"
+    },
+    "Kero": {
+        "location": "unknown"
+    },
+    "Kevin is a Noob": {
+        "location": "unknown"
+    },
+    "Keyd Stars": {
+        "location": "Brazil"
+    },
+    "Keyd Team": {
+        "location": "Brazil"
+    },
+    "Keyd Warriors": {
+        "location": "Brazil"
+    },
+    "Kiedys Mialem Team": {
+        "location": "Poland"
+    },
+    "Kill Steal Gaming": {
+        "location": "unknown"
+    },
+    "Klaj does it all": {
+        "location": "unknown"
+    },
+    "KoaLa Lampa Hunters": {
+        "location": "unknown"
+    },
+    "Kolejny Cios": {
+        "location": "Poland"
+    },
+    "Kongdoo Monster": {
+        "location": "South Korea"
+    },
+    "Kramm Crew xD": {
+        "location": "unknown"
+    },
+    "Kryzys Gospodarczy": {
+        "location": "unknown"
+    },
+    "Krzak": {
+        "location": "unknown"
+    },
+    "Kuala Lumpur Hunters": {
+        "location": "Malaysia"
+    },
+    "Kubyd's Syndrome": {
+        "location": "Poland"
+    },
+    "Kulturalni Zawodnicy": {
+        "location": "unknown"
+    },
+    "Kx.Cash": {
+        "location": "China"
+    },
+    "Kx.Happy": {
+        "location": "China"
+    },
+    "Kx.LM": {
+        "location": "unknown"
+    },
+    "LD50 Gaming": {
+        "location": "Japan"
+    },
+    "LF:Org": {
+        "location": "unknown"
+    },
+    "LG Hunters": {
+        "location": "unknown"
+    },
+    "LGD Gaming": {
+        "location": "China"
+    },
+    "LMQ": {
+        "location": "China"
+    },
+    "La GG": {
+        "location": "unknown"
+    },
+    "Lamasticrew": {
+        "location": "unknown"
+    },
+    "Lamasticrew Black": {
+        "location": "unknown"
+    },
+    "Last Group": {
+        "location": "unknown"
+    },
+    "Last Kings": {
+        "location": "Chile"
+    },
+    "Last Remedy": {
+        "location": "unknown"
+    },
+    "Latin Soldier Gaming": {
+        "location": "unknown"
+    },
+    "Leethuanyan": {
+        "location": "unknown"
+    },
+    "Leethuanyans": {
+        "location": "unknown"
+    },
+    "Legacy Genesis": {
+        "location": "Australia"
+    },
+    "Legacy eSports": {
+        "location": "Australia"
+    },
+    "Legend Dragon": {
+        "location": "China"
+    },
+    "Legendary": {
+        "location": "North America"
+    },
+    "Legendary Squad Aesir": {
+        "location": "unknown"
+    },
+    "LegendsBR": {
+        "location": "Brazil"
+    },
+    "Lemondogs": {
+        "location": "Sweden"
+    },
+    "Lemondogs Argentina": {
+        "location": "Sweden"
+    },
+    "Les Fr\u00e8res du Purgatoire": {
+        "location": "unknown"
+    },
+    "Les Touristes": {
+        "location": "unknown"
+    },
+    "Les clochards": {
+        "location": "unknown"
+    },
+    "Like A Boss": {
+        "location": "unknown"
+    },
+    "LinG": {
+        "location": "China"
+    },
+    "Line5": {
+        "location": "unknown"
+    },
+    "Lions EK": {
+        "location": "unknown"
+    },
+    "Liquicity": {
+        "location": "unknown"
+    },
+    "Little Wraith": {
+        "location": "Australia"
+    },
+    "LoLLeague": {
+        "location": "unknown"
+    },
+    "LoLUP.net": {
+        "location": "unknown"
+    },
+    "LodeStone": {
+        "location": "unknown"
+    },
+    "Logi-A Team": {
+        "location": "Taiwan"
+    },
+    "Logitech G Fighter": {
+        "location": "Taiwan"
+    },
+    "Logitech G Snipers": {
+        "location": "Taiwan"
+    },
+    "Longzhu Gaming": {
+        "location": "South Korea"
+    },
+    "Los Gorditos Loleros": {
+        "location": "unknown"
+    },
+    "Los Marias": {
+        "location": "unknown"
+    },
+    "Los Poros Loleros": {
+        "location": "unknown"
+    },
+    "Lost in Rotation": {
+        "location": "unknown"
+    },
+    "Low Priority": {
+        "location": "Europe"
+    },
+    "LowLandLions": {
+        "location": "Netherlands"
+    },
+    "LowLandLions.Black": {
+        "location": "Netherlands"
+    },
+    "LowLandLions.Fire": {
+        "location": "Netherlands"
+    },
+    "LowLandLions.White": {
+        "location": "Netherlands"
+    },
+    "Lublin Shore": {
+        "location": "Poland"
+    },
+    "Luna Gaming": {
+        "location": "unknown"
+    },
+    "Lun\u00e1ticos Black Side": {
+        "location": "unknown"
+    },
+    "Lun\u00e1ticos Yellow Side": {
+        "location": "unknown"
+    },
+    "Lyon Gaming": {
+        "location": "Mexico"
+    },
+    "Lzuruha Gaming": {
+        "location": "unknown"
+    },
+    "MAD Gaming": {
+        "location": "Brazil"
+    },
+    "MCRC": {
+        "location": "unknown"
+    },
+    "MKZ": {
+        "location": "South Korea"
+    },
+    "MSI Dragons": {
+        "location": "Poland"
+    },
+    "MTG": {
+        "location": "unknown"
+    },
+    "MTK eSports": {
+        "location": "unknown"
+    },
+    "MVP": {
+        "location": "South Korea"
+    },
+    "MVP Blue": {
+        "location": "South Korea"
+    },
+    "MVP Ozone": {
+        "location": "South Korea"
+    },
+    "MVP Red": {
+        "location": "South Korea"
+    },
+    "MVP White": {
+        "location": "South Korea"
+    },
+    "MYSM": {
+        "location": "unknown"
+    },
+    "Machi 17": {
+        "location": "Taiwan"
+    },
+    "Machi Crew": {
+        "location": "Taiwan"
+    },
+    "Machi E-Sports": {
+        "location": "Taiwan"
+    },
+    "Mad Dogs": {
+        "location": "unknown"
+    },
+    "Mad Gods Gaming": {
+        "location": "Greece"
+    },
+    "Mad Theory": {
+        "location": "unknown"
+    },
+    "Maelstrom Gaming": {
+        "location": "United States"
+    },
+    "Magnetic": {
+        "location": "North America"
+    },
+    "Make Sense Gaming": {
+        "location": "unknown"
+    },
+    "Make it Happen": {
+        "location": "unknown"
+    },
+    "Malph Paper Scissors": {
+        "location": "unknown"
+    },
+    "ManaLight": {
+        "location": "United Kingdom"
+    },
+    "Manila Eagles": {
+        "location": "Philippines"
+    },
+    "MantraW": {
+        "location": "unknown"
+    },
+    "Marshrutka eSports": {
+        "location": "unknown"
+    },
+    "Marvelous GB": {
+        "location": "China"
+    },
+    "Maryville plus grill": {
+        "location": "unknown"
+    },
+    "Mashallah Gaming": {
+        "location": "Europe"
+    },
+    "Masters 3": {
+        "location": "China"
+    },
+    "MaxFloPlay": {
+        "location": "unknown"
+    },
+    "MaximuM e-Sports Club": {
+        "location": "unknown"
+    },
+    "Meat Playground": {
+        "location": "North America"
+    },
+    "Mebdi's Minions": {
+        "location": "unknown"
+    },
+    "MeetYourMakers": {
+        "location": "Germany"
+    },
+    "MeetYourMakers.LAN": {
+        "location": "Germany"
+    },
+    "MeetYourMakers.TR": {
+        "location": "Germany"
+    },
+    "Meloncats": {
+        "location": "Europe"
+    },
+    "Melty eSport Club": {
+        "location": "France"
+    },
+    "Mentality Gaming": {
+        "location": "unknown"
+    },
+    "Meow": {
+        "location": "unknown"
+    },
+    "Meteorite.GTS": {
+        "location": "unknown"
+    },
+    "MiG Blaze": {
+        "location": "South Korea"
+    },
+    "MiG Blitz": {
+        "location": "South Korea"
+    },
+    "MiG Frost": {
+        "location": "South Korea"
+    },
+    "MiG Wicked": {
+        "location": "unknown"
+    },
+    "MiTH Flashdive": {
+        "location": "Thailand"
+    },
+    "Midas FIO": {
+        "location": "South Korea"
+    },
+    "Midnight Sun Esports": {
+        "location": "Taiwan"
+    },
+    "Might Team": {
+        "location": "unknown"
+    },
+    "Millenium": {
+        "location": "France"
+    },
+    "Millenium Spirit": {
+        "location": "France"
+    },
+    "Mindfreak": {
+        "location": "unknown"
+    },
+    "Mindfreak eSports": {
+        "location": "unknown"
+    },
+    "Mineski": {
+        "location": "Philippines"
+    },
+    "Misfits": {
+        "location": "unknown"
+    },
+    "Misfits NA": {
+        "location": "North America"
+    },
+    "Miss in Action": {
+        "location": "unknown"
+    },
+    "Mistakes Were Made": {
+        "location": "unknown"
+    },
+    "MnM Gaming": {
+        "location": "United Kingdom"
+    },
+    "MonKey Army": {
+        "location": "unknown"
+    },
+    "Monomaniac Dominatus": {
+        "location": "United States"
+    },
+    "Monomaniac Evito": {
+        "location": "unknown"
+    },
+    "Monomaniac Ferus": {
+        "location": "United States"
+    },
+    "Monomaniac Imperium": {
+        "location": "unknown"
+    },
+    "Monomaniac Peritus": {
+        "location": "unknown"
+    },
+    "Monomaniac Ultimus": {
+        "location": "unknown"
+    },
+    "Monomaniac eSports": {
+        "location": "United States"
+    },
+    "Monster Kittens": {
+        "location": "United States"
+    },
+    "Monsteresports": {
+        "location": "unknown"
+    },
+    "Mook Secret": {
+        "location": "unknown"
+    },
+    "Mortality eSports": {
+        "location": "unknown"
+    },
+    "Moscow Five": {
+        "location": "Russia"
+    },
+    "Motion Gaming": {
+        "location": "unknown"
+    },
+    "MyBoys": {
+        "location": "unknown"
+    },
+    "MySports": {
+        "location": "unknown"
+    },
+    "Mysterious Monkeys": {
+        "location": "Germany"
+    },
+    "NA Players": {
+        "location": "North America"
+    },
+    "NEB": {
+        "location": "South Korea"
+    },
+    "NGG": {
+        "location": "unknown"
+    },
+    "NIMBY Gaming": {
+        "location": "unknown"
+    },
+    "NKT": {
+        "location": "unknown"
+    },
+    "NRG Esports": {
+        "location": "North America"
+    },
+    "NaJin Black Sword": {
+        "location": "South Korea"
+    },
+    "NaJin Shield": {
+        "location": "South Korea"
+    },
+    "NaJin Sword": {
+        "location": "South Korea"
+    },
+    "NaJin White Shield": {
+        "location": "South Korea"
+    },
+    "NaJin e-mFire": {
+        "location": "South Korea"
+    },
+    "Naga Esports": {
+        "location": "unknown"
+    },
+    "Napkins in Disguise": {
+        "location": "North America"
+    },
+    "Narwhals": {
+        "location": "unknown"
+    },
+    "Natus Vincere": {
+        "location": "Ukraine"
+    },
+    "Natus Vincere.CIS": {
+        "location": "Ukraine"
+    },
+    "Necrofantasian": {
+        "location": "unknown"
+    },
+    "Neolution Nemesis": {
+        "location": "Thailand"
+    },
+    "Nerv": {
+        "location": "Europe"
+    },
+    "Neurons": {
+        "location": "Taiwan"
+    },
+    "Never Ending Cycle": {
+        "location": "unknown"
+    },
+    "Never Give Up": {
+        "location": "Taiwan"
+    },
+    "Never g1ve up": {
+        "location": "unknown"
+    },
+    "NeverBack Gaming": {
+        "location": "unknown"
+    },
+    "New Blaze": {
+        "location": "unknown"
+    },
+    "New Type Gaming": {
+        "location": "unknown"
+    },
+    "New World Eclipse": {
+        "location": "North America"
+    },
+    "NewRoSoft": {
+        "location": "unknown"
+    },
+    "Newbee": {
+        "location": "China"
+    },
+    "Newbee Young": {
+        "location": "China"
+    },
+    "Nex Impetus": {
+        "location": "Brazil"
+    },
+    "NexGen eSports Mirage": {
+        "location": "unknown"
+    },
+    "Nexus Gaming": {
+        "location": "unknown"
+    },
+    "Nibble Gaming": {
+        "location": "Japan"
+    },
+    "Nice Work Dude": {
+        "location": "unknown"
+    },
+    "Nickwu Tang Clan": {
+        "location": "unknown"
+    },
+    "Night Inside": {
+        "location": "unknown"
+    },
+    "Night Walkers": {
+        "location": "unknown"
+    },
+    "Nightlife Gaming EU": {
+        "location": "unknown"
+    },
+    "Nil\u00fcfer BelediyEspor 1603": {
+        "location": "unknown"
+    },
+    "NinjaQK": {
+        "location": "unknown"
+    },
+    "Ninjas in Pyjamas": {
+        "location": "Sweden"
+    },
+    "No Big Deal": {
+        "location": "unknown"
+    },
+    "No Dice Gaming": {
+        "location": "North America"
+    },
+    "No Game No Life": {
+        "location": "Hong Kong"
+    },
+    "No Need Orga": {
+        "location": "unknown"
+    },
+    "No Remorse eSports": {
+        "location": "unknown"
+    },
+    "No Team Name Necessary": {
+        "location": "unknown"
+    },
+    "NoNeedOrga": {
+        "location": "unknown"
+    },
+    "Noah's Ark": {
+        "location": "China"
+    },
+    "Noble Truth": {
+        "location": "United States"
+    },
+    "Noble eSports": {
+        "location": "unknown"
+    },
+    "Nocturns Gaming": {
+        "location": "Argentina"
+    },
+    "NonHK": {
+        "location": "Hong Kong"
+    },
+    "Noob da Net": {
+        "location": "unknown"
+    },
+    "Nothing to Lose.Fluffy": {
+        "location": "unknown"
+    },
+    "Nova eSports": {
+        "location": "United States"
+    },
+    "Nowe Rozdanie": {
+        "location": "unknown"
+    },
+    "Number One": {
+        "location": "unknown"
+    },
+    "NumberOne Esports": {
+        "location": "Turkey"
+    },
+    "Nuovo Gaming": {
+        "location": "Australia"
+    },
+    "Nyan Cat": {
+        "location": "unknown"
+    },
+    "Nyan Zone": {
+        "location": "unknown"
+    },
+    "OH \u00c7\u0130LEKLER": {
+        "location": "Turkey"
+    },
+    "OHGODBEARS": {
+        "location": "unknown"
+    },
+    "OMNI e-Sports": {
+        "location": "unknown"
+    },
+    "Oblivion eSports": {
+        "location": "unknown"
+    },
+    "Ocean Kings": {
+        "location": "unknown"
+    },
+    "Odyssey Gaming": {
+        "location": "United States"
+    },
+    "Oh My Dream": {
+        "location": "China"
+    },
+    "Oh My God": {
+        "location": "China"
+    },
+    "Okinawan Tigers": {
+        "location": "Japan"
+    },
+    "Old BoyZ": {
+        "location": "unknown"
+    },
+    "Old School Punchlines": {
+        "location": "unknown"
+    },
+    "Only Gragas": {
+        "location": "unknown"
+    },
+    "OpenMidPlease": {
+        "location": "Taiwan"
+    },
+    "Operation Kino e-Sports": {
+        "location": "Brazil"
+    },
+    "Orange Esports": {
+        "location": "Malaysia"
+    },
+    "Orbit Gaming": {
+        "location": "United States"
+    },
+    "Ordinance Gaming": {
+        "location": "North America"
+    },
+    "Ordo Equitum": {
+        "location": "unknown"
+    },
+    "Origen": {
+        "location": "Spain"
+    },
+    "Origine Online": {
+        "location": "France"
+    },
+    "Orion Esports": {
+        "location": "unknown"
+    },
+    "Osos Mafiosos": {
+        "location": "unknown"
+    },
+    "Out of Position": {
+        "location": "unknown"
+    },
+    "OverDrive": {
+        "location": "Japan"
+    },
+    "OverGaming": {
+        "location": "Spain"
+    },
+    "Overload": {
+        "location": "Brazil"
+    },
+    "Ownerd e-Sports": {
+        "location": "Brazil"
+    },
+    "Oyun Hizmetleri": {
+        "location": "Turkey"
+    },
+    "Ozone Darkness": {
+        "location": "unknown"
+    },
+    "Ozone Rampage": {
+        "location": "Japan"
+    },
+    "PAM eSports": {
+        "location": "Spain"
+    },
+    "PDR Gaming": {
+        "location": "unknown"
+    },
+    "PENTA Sports": {
+        "location": "Germany"
+    },
+    "PEX": {
+        "location": "Argentina"
+    },
+    "PKMaster": {
+        "location": "Taiwan"
+    },
+    "PL Gaming": {
+        "location": "Argentina"
+    },
+    "PLATINRUSHH": {
+        "location": "unknown"
+    },
+    "PSW Ares": {
+        "location": "unknown"
+    },
+    "PaPaKanKanPaPa": {
+        "location": "unknown"
+    },
+    "Pacific eSports": {
+        "location": "Philippines"
+    },
+    "PainGaming": {
+        "location": "Spain"
+    },
+    "Panda Cub Hugging Club": {
+        "location": "Singapore"
+    },
+    "Parabellum Esports": {
+        "location": "unknown"
+    },
+    "Paradox Gaming": {
+        "location": "Malaysia"
+    },
+    "Paris Saint-Germain": {
+        "location": "France"
+    },
+    "Pathos": {
+        "location": "South Korea"
+    },
+    "PeachServer Allstars": {
+        "location": "Japan"
+    },
+    "PeesPlay Gaming": {
+        "location": "Brazil"
+    },
+    "Pentakill": {
+        "location": "unknown"
+    },
+    "Pentakill.gr": {
+        "location": "unknown"
+    },
+    "Perfectionvore": {
+        "location": "Venezuela"
+    },
+    "Perilous Gaming Rift": {
+        "location": "unknown"
+    },
+    "Perilous Gaming Void": {
+        "location": "unknown"
+    },
+    "Phantoms": {
+        "location": "unknown"
+    },
+    "Phoenix1": {
+        "location": "North America"
+    },
+    "Pick a Card": {
+        "location": "unknown"
+    },
+    "Pickleberry": {
+        "location": "unknown"
+    },
+    "Pineapple Express": {
+        "location": "Argentina"
+    },
+    "Planetkey Dynamics": {
+        "location": "Germany"
+    },
+    "Play Again": {
+        "location": "Argentina"
+    },
+    "Playing Ducks": {
+        "location": "Germany"
+    },
+    "Playing-Ducks": {
+        "location": "unknown"
+    },
+    "Pondok Gaming": {
+        "location": "Indonesia"
+    },
+    "Positive Energy": {
+        "location": "China"
+    },
+    "Poussins.Gaming": {
+        "location": "unknown"
+    },
+    "Power Gamers": {
+        "location": "unknown"
+    },
+    "Power Team Sports": {
+        "location": "Brazil"
+    },
+    "PrideFC": {
+        "location": "Europe"
+    },
+    "PrideZ": {
+        "location": "unknown"
+    },
+    "Prime Clan": {
+        "location": "South Korea"
+    },
+    "Prime Optimus": {
+        "location": "South Korea"
+    },
+    "ProGaming e-Sports": {
+        "location": "Brazil"
+    },
+    "Project Challenger": {
+        "location": "unknown"
+    },
+    "Pulse Esports": {
+        "location": "North America"
+    },
+    "PunchLine Esport Club": {
+        "location": "France"
+    },
+    "Pwn3ed e-Sports": {
+        "location": "unknown"
+    },
+    "QCTW": {
+        "location": "unknown"
+    },
+    "Qiao Gu Reapers": {
+        "location": "China"
+    },
+    "Qlimax Crew": {
+        "location": "unknown"
+    },
+    "Quantic Gaming": {
+        "location": "North America"
+    },
+    "Quvic E-Sports": {
+        "location": "South Korea"
+    },
+    "RCTIC eSports": {
+        "location": "Finland"
+    },
+    "REBORN XD": {
+        "location": "unknown"
+    },
+    "RED Canids": {
+        "location": "Brazil"
+    },
+    "RFLX Gaming": {
+        "location": "United States"
+    },
+    "RGESC Beta": {
+        "location": "unknown"
+    },
+    "RMA e-Sports": {
+        "location": "Brazil"
+    },
+    "ROX Tigers": {
+        "location": "South Korea"
+    },
+    "RUDE GAME": {
+        "location": "Brazil"
+    },
+    "RabbitFive": {
+        "location": "Japan"
+    },
+    "Rackgames": {
+        "location": "unknown"
+    },
+    "Raise Gaming": {
+        "location": "Taiwan"
+    },
+    "Rampage": {
+        "location": "Japan"
+    },
+    "Random Team Name": {
+        "location": "unknown"
+    },
+    "RandomTeamName": {
+        "location": "unknown"
+    },
+    "Ranked Gaming": {
+        "location": "unknown"
+    },
+    "Rascal Jester": {
+        "location": "Japan"
+    },
+    "Ray of Deads": {
+        "location": "unknown"
+    },
+    "Rayunion": {
+        "location": "China"
+    },
+    "Reality Check Gaming": {
+        "location": "unknown"
+    },
+    "Reason Gaming": {
+        "location": "United Kingdom"
+    },
+    "Rebels Anarchy": {
+        "location": "South Korea"
+    },
+    "Rebirth eSports": {
+        "location": "Chile"
+    },
+    "Rebirth eSports Fate": {
+        "location": "Chile"
+    },
+    "Red Arrows Team": {
+        "location": "Colombia"
+    },
+    "Red Dead e.Sports": {
+        "location": "unknown"
+    },
+    "Reign eSports": {
+        "location": "unknown"
+    },
+    "Rejected": {
+        "location": "unknown"
+    },
+    "Remo Brave e-Sports": {
+        "location": "Brazil"
+    },
+    "Renegades": {
+        "location": "North America"
+    },
+    "Renegades of Hell": {
+        "location": "Chile"
+    },
+    "Renegades of Hell Eclipse": {
+        "location": "Chile"
+    },
+    "Renegades: Banditos": {
+        "location": "Europe"
+    },
+    "Rest in piecez": {
+        "location": "unknown"
+    },
+    "RevenGGe Team": {
+        "location": "unknown"
+    },
+    "Revenge Served Cold": {
+        "location": "unknown"
+    },
+    "Revenge eSports": {
+        "location": "Peru"
+    },
+    "Revenger": {
+        "location": "China"
+    },
+    "Revival Esports": {
+        "location": "unknown"
+    },
+    "Revolt Gentlemen E-Sports Club": {
+        "location": "unknown"
+    },
+    "Revolt Gentlemen E-Sports Club EUNE": {
+        "location": "Turkey"
+    },
+    "Revolt Gentlemen E-Sports Club EUW": {
+        "location": "Turkey"
+    },
+    "Revolution Gamers": {
+        "location": "unknown"
+    },
+    "Rich Gang": {
+        "location": "Australia"
+    },
+    "Riddle eSports": {
+        "location": "Norway"
+    },
+    "Rino Purple": {
+        "location": "unknown"
+    },
+    "Riot Games Inc.": {
+        "location": "unknown"
+    },
+    "Rising On Gaming": {
+        "location": "unknown"
+    },
+    "RisingStar Gaming": {
+        "location": "South Korea"
+    },
+    "RisingStars Gaming": {
+        "location": "China"
+    },
+    "RoX": {
+        "location": "Russia"
+    },
+    "Roaming Dragons": {
+        "location": "unknown"
+    },
+    "Roar": {
+        "location": "Canada"
+    },
+    "Roaring Agony": {
+        "location": "unknown"
+    },
+    "Robert Morris University": {
+        "location": "unknown"
+    },
+    "Robot E-Sports Team": {
+        "location": "Brazil"
+    },
+    "Rock Bottom Gorillas": {
+        "location": "unknown"
+    },
+    "Rock Solid": {
+        "location": "North America"
+    },
+    "Rock Solid (Argentina)": {
+        "location": "unknown"
+    },
+    "Rock Solid AR": {
+        "location": "unknown"
+    },
+    "Rock Solid Argentina": {
+        "location": "unknown"
+    },
+    "RoughNeX": {
+        "location": "Europe"
+    },
+    "Royal Club": {
+        "location": "China"
+    },
+    "Royal Club Tian Ci": {
+        "location": "China"
+    },
+    "Royal Never Give Up": {
+        "location": "China"
+    },
+    "Royal Paladin Eclipse": {
+        "location": "Chile"
+    },
+    "Royal Paladin Reverse": {
+        "location": "unknown"
+    },
+    "Royal Paladin eSports": {
+        "location": "Argentina"
+    },
+    "Royal Paladin eSports Eclipse": {
+        "location": "Chile"
+    },
+    "Royal Team": {
+        "location": "unknown"
+    },
+    "RtN Gaming": {
+        "location": "Argentina"
+    },
+    "Russian Force": {
+        "location": "Russia"
+    },
+    "S H O W T I M E": {
+        "location": "unknown"
+    },
+    "SBENU Korea": {
+        "location": "South Korea"
+    },
+    "SBENU Sonicboom": {
+        "location": "South Korea"
+    },
+    "SCARZ": {
+        "location": "Japan"
+    },
+    "SK Gaming": {
+        "location": "Germany"
+    },
+    "SK Gaming Prime": {
+        "location": "Germany"
+    },
+    "SK Telecom T1": {
+        "location": "South Korea"
+    },
+    "SK Telecom T1 1": {
+        "location": "South Korea"
+    },
+    "SK Telecom T1 K": {
+        "location": "South Korea"
+    },
+    "SK Telecom T1 S": {
+        "location": "South Korea"
+    },
+    "SLK Gaming": {
+        "location": "unknown"
+    },
+    "SLK Gaming Black": {
+        "location": "unknown"
+    },
+    "SNOGARD Dragons": {
+        "location": "Germany"
+    },
+    "STAR": {
+        "location": "unknown"
+    },
+    "STREAM TEAM FR": {
+        "location": "unknown"
+    },
+    "SUMMA.GG": {
+        "location": "unknown"
+    },
+    "SUPA HOT CREW": {
+        "location": "Europe"
+    },
+    "Saigon Fantastic Five": {
+        "location": "Vietnam"
+    },
+    "Saigon Jokers": {
+        "location": "Vietnam"
+    },
+    "Saigon Mongaming": {
+        "location": "Vietnam"
+    },
+    "Saint Gaming": {
+        "location": "China"
+    },
+    "Salade Tomate Oignon": {
+        "location": "France"
+    },
+    "Salvage Javelin": {
+        "location": "Japan"
+    },
+    "Samadder Gaming": {
+        "location": "North America"
+    },
+    "Sample Text": {
+        "location": "Poland"
+    },
+    "Samsung Blue": {
+        "location": "South Korea"
+    },
+    "Samsung Galaxy": {
+        "location": "South Korea"
+    },
+    "Samsung Ozone": {
+        "location": "South Korea"
+    },
+    "Samsung White": {
+        "location": "South Korea"
+    },
+    "Samurai in Jeans": {
+        "location": "Europe"
+    },
+    "Santos Dexterity": {
+        "location": "Brazil"
+    },
+    "Satori": {
+        "location": "Mexico"
+    },
+    "Satori Red": {
+        "location": "Mexico"
+    },
+    "Se Loco Cachorreira": {
+        "location": "Brazil"
+    },
+    "Seagate Hope": {
+        "location": "Taiwan"
+    },
+    "Season 6 Players": {
+        "location": "unknown"
+    },
+    "Segui la Call": {
+        "location": "unknown"
+    },
+    "Sentinels ESC": {
+        "location": "Australia"
+    },
+    "Seoul City": {
+        "location": "unknown"
+    },
+    "Sequential Gaming Europe": {
+        "location": "unknown"
+    },
+    "Sequestial Gaming": {
+        "location": "unknown"
+    },
+    "Seraphic Nexus": {
+        "location": "unknown"
+    },
+    "Serenus Gaming": {
+        "location": "unknown"
+    },
+    "Serpentis eSports": {
+        "location": "unknown"
+    },
+    "Seven Wars Lyon": {
+        "location": "Mexico"
+    },
+    "Seven Wars e-Sports": {
+        "location": "Brazil"
+    },
+    "Severity Gaming": {
+        "location": "unknown"
+    },
+    "Shadow e-Sports": {
+        "location": "unknown"
+    },
+    "Shantao macht Wau": {
+        "location": "unknown"
+    },
+    "Shenfire is Elo Booster": {
+        "location": "unknown"
+    },
+    "Shot eSports Club": {
+        "location": "unknown"
+    },
+    "ShowTime": {
+        "location": "China"
+    },
+    "Simple Gaming": {
+        "location": "unknown"
+    },
+    "Sin Gaming": {
+        "location": "Australia"
+    },
+    "Singapore Sentinels": {
+        "location": "Singapore"
+    },
+    "Sinners Never Sleep": {
+        "location": "Europe"
+    },
+    "Sintox eSports": {
+        "location": "unknown"
+    },
+    "Skulls Club": {
+        "location": "unknown"
+    },
+    "SkyRed": {
+        "location": "unknown"
+    },
+    "Skyline": {
+        "location": "North America"
+    },
+    "Slaughter Gaming": {
+        "location": "unknown"
+    },
+    "Small Dads GO to heaven": {
+        "location": "unknown"
+    },
+    "SmartPeople": {
+        "location": "unknown"
+    },
+    "Smoking Hot Candies": {
+        "location": "Malaysia"
+    },
+    "Snake Honor Esports": {
+        "location": "China"
+    },
+    "Snake eSports": {
+        "location": "China"
+    },
+    "Snake.Q": {
+        "location": "China"
+    },
+    "SoNiC": {
+        "location": "unknown"
+    },
+    "SolarWind": {
+        "location": "Europe"
+    },
+    "Solo Kill": {
+        "location": "unknown"
+    },
+    "SouLControL": {
+        "location": "unknown"
+    },
+    "Soul Gamer": {
+        "location": "unknown"
+    },
+    "Sovereign": {
+        "location": "Singapore"
+    },
+    "Splyce": {
+        "location": "Europe"
+    },
+    "Spy Dolphins": {
+        "location": "Chile"
+    },
+    "Square Duck": {
+        "location": "North America"
+    },
+    "Stand Point Gaming": {
+        "location": "China"
+    },
+    "Star Horn Royal Club": {
+        "location": "China"
+    },
+    "StarTale": {
+        "location": "South Korea"
+    },
+    "Stardust": {
+        "location": "South Korea"
+    },
+    "SteelSeries WIE": {
+        "location": "unknown"
+    },
+    "SteelShock Gaming": {
+        "location": "unknown"
+    },
+    "Steve Bakes Cookies": {
+        "location": "Europe"
+    },
+    "Stomp eSports": {
+        "location": "unknown"
+    },
+    "Storm": {
+        "location": "United States"
+    },
+    "Storm Games Clan": {
+        "location": "Slovakia"
+    },
+    "Submarines": {
+        "location": "Taiwan"
+    },
+    "Sudden Fear": {
+        "location": "Australia"
+    },
+    "Super Team NA": {
+        "location": "unknown"
+    },
+    "SuperHype Gaming": {
+        "location": "Vietnam"
+    },
+    "SuperMassive TNG": {
+        "location": "Turkey"
+    },
+    "SuperMassive eSports": {
+        "location": "Turkey"
+    },
+    "Supreme Tenacity": {
+        "location": "unknown"
+    },
+    "SwestiC": {
+        "location": "unknown"
+    },
+    "Szef+6": {
+        "location": "Poland"
+    },
+    "T.Bear Gaming": {
+        "location": "China"
+    },
+    "TCA eSports": {
+        "location": "unknown"
+    },
+    "TCM Gaming": {
+        "location": "United Kingdom"
+    },
+    "TDX Gaming": {
+        "location": "unknown"
+    },
+    "TEAM4NOT.NA": {
+        "location": "Canada"
+    },
+    "TEAM4NOT.OCE": {
+        "location": "Australia"
+    },
+    "TITANS ESPORTS": {
+        "location": "Russia"
+    },
+    "TNE": {
+        "location": "unknown"
+    },
+    "TNP Gaming EU": {
+        "location": "unknown"
+    },
+    "TRICKED_eSPORT": {
+        "location": "unknown"
+    },
+    "TSM Darkness": {
+        "location": "United States"
+    },
+    "TTD Toybox": {
+        "location": "unknown"
+    },
+    "Tainted Minds": {
+        "location": "Australia"
+    },
+    "Taipei Assassins": {
+        "location": "Taiwan"
+    },
+    "Taipei Berserkers": {
+        "location": "Taiwan"
+    },
+    "Taipei Snipers": {
+        "location": "Taiwan"
+    },
+    "TakeCover-Gaming": {
+        "location": "unknown"
+    },
+    "Taoyuan Cougar E-Sport": {
+        "location": "Taiwan"
+    },
+    "Team 58ers": {
+        "location": "Brazil"
+    },
+    "Team 8": {
+        "location": "North America"
+    },
+    "Team ALTERNATE": {
+        "location": "Germany"
+    },
+    "Team ANG": {
+        "location": "Peru"
+    },
+    "Team AURORA": {
+        "location": "Turkey"
+    },
+    "Team Acer": {
+        "location": "Germany"
+    },
+    "Team Acer Nemesis": {
+        "location": "Thailand"
+    },
+    "Team Acer Poland": {
+        "location": "Poland"
+    },
+    "Team Alternate Academy": {
+        "location": "unknown"
+    },
+    "Team Amine": {
+        "location": "unknown"
+    },
+    "Team Arena Online": {
+        "location": "North America"
+    },
+    "Team Ares": {
+        "location": "unknown"
+    },
+    "Team Asterion": {
+        "location": "unknown"
+    },
+    "Team Astral Poke": {
+        "location": "unknown"
+    },
+    "Team BLACK": {
+        "location": "Europe"
+    },
+    "Team BlackEye": {
+        "location": "Japan"
+    },
+    "Team Bubble": {
+        "location": "unknown"
+    },
+    "Team C3": {
+        "location": "unknown"
+    },
+    "Team Cappadocia": {
+        "location": "unknown"
+    },
+    "Team Coast": {
+        "location": "North America"
+    },
+    "Team Coast Gold": {
+        "location": "Europe"
+    },
+    "Team Confound": {
+        "location": "United States"
+    },
+    "Team Confusion": {
+        "location": "United States"
+    },
+    "Team Cougar": {
+        "location": "unknown"
+    },
+    "Team Crowd Control": {
+        "location": "unknown"
+    },
+    "Team Curse": {
+        "location": "North America"
+    },
+    "Team Curse Europe": {
+        "location": "North America"
+    },
+    "Team Curse OCE": {
+        "location": "North America"
+    },
+    "Team Cursive": {
+        "location": "unknown"
+    },
+    "Team DK": {
+        "location": "China"
+    },
+    "Team Derpers": {
+        "location": "unknown"
+    },
+    "Team Differential": {
+        "location": "Russia"
+    },
+    "Team Dignitas": {
+        "location": "United Kingdom"
+    },
+    "Team Dignitas EU": {
+        "location": "United Kingdom"
+    },
+    "Team Dignitas OCE": {
+        "location": "United Kingdom"
+    },
+    "Team Dignitas UK": {
+        "location": "United Kingdom"
+    },
+    "Team Dragon Knights": {
+        "location": "North America"
+    },
+    "Team Dynamic": {
+        "location": "North America"
+    },
+    "Team Eloblade": {
+        "location": "Europe"
+    },
+    "Team Empire": {
+        "location": "Russia"
+    },
+    "Team EnVyUs": {
+        "location": "North America"
+    },
+    "Team Erase": {
+        "location": "unknown"
+    },
+    "Team Evolution": {
+        "location": "Hong Kong"
+    },
+    "Team Exile5": {
+        "location": "Australia"
+    },
+    "Team Fat Rabbit": {
+        "location": "Singapore"
+    },
+    "Team FeaR": {
+        "location": "United States"
+    },
+    "Team Forge": {
+        "location": "Italy"
+    },
+    "Team FragZone": {
+        "location": "Denmark"
+    },
+    "Team Frostbite": {
+        "location": "North America"
+    },
+    "Team Fusion": {
+        "location": "North America"
+    },
+    "Team GAMED.DE": {
+        "location": "Germany"
+    },
+    "Team Galaxy": {
+        "location": "unknown"
+    },
+    "Team Genesis": {
+        "location": "Brazil"
+    },
+    "Team God Mode": {
+        "location": "unknown"
+    },
+    "Team Gravy": {
+        "location": "North America"
+    },
+    "Team Green Forest": {
+        "location": "North America"
+    },
+    "Team Gyrations": {
+        "location": "unknown"
+    },
+    "Team HD": {
+        "location": "unknown"
+    },
+    "Team IMBA.PH": {
+        "location": "unknown"
+    },
+    "Team Imagine": {
+        "location": "North America"
+    },
+    "Team Immunity": {
+        "location": "Australia"
+    },
+    "Team Impulse": {
+        "location": "North America"
+    },
+    "Team Infinite": {
+        "location": "Thailand"
+    },
+    "Team Infinity": {
+        "location": "unknown"
+    },
+    "Team Infused": {
+        "location": "United Kingdom"
+    },
+    "Team Innova": {
+        "location": "unknown"
+    },
+    "Team Just": {
+        "location": "Russia"
+    },
+    "Team Just Alpha": {
+        "location": "Russia"
+    },
+    "Team KTHXBAI": {
+        "location": "Malaysia"
+    },
+    "Team Kamikaze": {
+        "location": "Japan"
+    },
+    "Team Kappa Prime": {
+        "location": "unknown"
+    },
+    "Team King": {
+        "location": "China"
+    },
+    "Team Kubiko": {
+        "location": "unknown"
+    },
+    "Team KungFu": {
+        "location": "China"
+    },
+    "Team LGL": {
+        "location": "unknown"
+    },
+    "Team Legend God": {
+        "location": "Hong Kong"
+    },
+    "Team Legion": {
+        "location": "United States"
+    },
+    "Team Lioncast": {
+        "location": "unknown"
+    },
+    "Team Liquid": {
+        "location": "Netherlands"
+    },
+    "Team Liquid Academy": {
+        "location": "Netherlands"
+    },
+    "Team Livemore": {
+        "location": "China"
+    },
+    "Team LoL Cave": {
+        "location": "Argentina"
+    },
+    "Team LoLPro": {
+        "location": "North America"
+    },
+    "Team Longview": {
+        "location": "unknown"
+    },
+    "Team MRN": {
+        "location": "North America"
+    },
+    "Team Majestic": {
+        "location": "unknown"
+    },
+    "Team MegashocK": {
+        "location": "Germany"
+    },
+    "Team Miracle": {
+        "location": "Vietnam"
+    },
+    "Team Mist": {
+        "location": "Taiwan"
+    },
+    "Team Mistral": {
+        "location": "France"
+    },
+    "Team Mistral RO": {
+        "location": "unknown"
+    },
+    "Team Nevo": {
+        "location": "United Kingdom"
+    },
+    "Team NewRoSoft": {
+        "location": "unknown"
+    },
+    "Team No Limit": {
+        "location": "Hong Kong"
+    },
+    "Team Normal Stars": {
+        "location": "unknown"
+    },
+    "Team Nv": {
+        "location": "Australia"
+    },
+    "Team OP": {
+        "location": "South Korea"
+    },
+    "Team Overclockers UK": {
+        "location": "United Kingdom"
+    },
+    "Team Ozone Cutie Monsters": {
+        "location": "Vietnam"
+    },
+    "Team Ozone Taiwan": {
+        "location": "unknown"
+    },
+    "Team Phoenix": {
+        "location": "China"
+    },
+    "Team Popmog": {
+        "location": "unknown"
+    },
+    "Team Proioxis": {
+        "location": "Singapore"
+    },
+    "Team Property": {
+        "location": "Sweden"
+    },
+    "Team Quetzal": {
+        "location": "Mexico"
+    },
+    "Team ROCCAT": {
+        "location": "Germany"
+    },
+    "Team ROCK": {
+        "location": "Poland"
+    },
+    "Team Rage": {
+        "location": "unknown"
+    },
+    "Team Refuse": {
+        "location": "Greece"
+    },
+    "Team Replika": {
+        "location": "unknown"
+    },
+    "Team SalsaLoL": {
+        "location": "Spain"
+    },
+    "Team Secret": {
+        "location": "unknown"
+    },
+    "Team Server-Forge": {
+        "location": "Germany"
+    },
+    "Team Shadows": {
+        "location": "unknown"
+    },
+    "Team Solo Mebdi": {
+        "location": "unknown"
+    },
+    "Team SoloMid": {
+        "location": "United States"
+    },
+    "Team SoloMid Evo": {
+        "location": "United States"
+    },
+    "Team Summon": {
+        "location": "United States"
+    },
+    "Team Sypher": {
+        "location": "Belgium"
+    },
+    "Team TLC": {
+        "location": "unknown"
+    },
+    "Team Tempest": {
+        "location": "North America"
+    },
+    "Team Testo": {
+        "location": "unknown"
+    },
+    "Team Thermaltake": {
+        "location": "Germany"
+    },
+    "Team TowerDiveTV": {
+        "location": "unknown"
+    },
+    "Team Toxic": {
+        "location": "Thailand"
+    },
+    "Team Turquality": {
+        "location": "Turkey"
+    },
+    "Team Turquality BLUE": {
+        "location": "Turkey"
+    },
+    "Team Turquality RED": {
+        "location": "Turkey"
+    },
+    "Team Ultra Vires": {
+        "location": "Lithuania"
+    },
+    "Team United": {
+        "location": "Brazil"
+    },
+    "Team Unlimited": {
+        "location": "unknown"
+    },
+    "Team VEX": {
+        "location": "unknown"
+    },
+    "Team VGR": {
+        "location": "unknown"
+    },
+    "Team Vitality": {
+        "location": "France"
+    },
+    "Team Vulcan (Chile)": {
+        "location": "unknown"
+    },
+    "Team Vulcun": {
+        "location": "United States"
+    },
+    "Team WE": {
+        "location": "China"
+    },
+    "Team WE Academy": {
+        "location": "China"
+    },
+    "Team WE Future": {
+        "location": "China"
+    },
+    "Team WE.i-Rocks": {
+        "location": "China"
+    },
+    "Team WinFakt": {
+        "location": "Belgium"
+    },
+    "Team XXX": {
+        "location": "unknown"
+    },
+    "Team YSCC": {
+        "location": "unknown"
+    },
+    "Team Zero": {
+        "location": "unknown"
+    },
+    "Team awp": {
+        "location": "Brazil"
+    },
+    "Team ephix": {
+        "location": "unknown"
+    },
+    "Team in Game": {
+        "location": "unknown"
+    },
+    "Team-Birth": {
+        "location": "unknown"
+    },
+    "Team-LDLC": {
+        "location": "France"
+    },
+    "TeamLeagueHunters": {
+        "location": "unknown"
+    },
+    "TeamMostWanted": {
+        "location": "unknown"
+    },
+    "Teamless": {
+        "location": "Europe"
+    },
+    "Tempest": {
+        "location": "South Korea"
+    },
+    "Tera-Gaming": {
+        "location": "unknown"
+    },
+    "Tesla E-Sports": {
+        "location": "South America"
+    },
+    "Tesla Gaming": {
+        "location": "South America"
+    },
+    "Test Your Limits": {
+        "location": "Greece"
+    },
+    "The Brunch Club": {
+        "location": "North America"
+    },
+    "The Chiefs eSports Club": {
+        "location": "Australia"
+    },
+    "The Dragon Lair": {
+        "location": "unknown"
+    },
+    "The Fox Sound": {
+        "location": "Europe"
+    },
+    "The Gentle Team": {
+        "location": "unknown"
+    },
+    "The Gentlemen's Guild": {
+        "location": "unknown"
+    },
+    "The Legacy": {
+        "location": "Chile"
+    },
+    "The Mighty Midgets": {
+        "location": "Poland"
+    },
+    "The Penguins Mafia": {
+        "location": "Spain"
+    },
+    "The RED": {
+        "location": "Russia"
+    },
+    "The Salad Bar": {
+        "location": "North America"
+    },
+    "The Samurai Road": {
+        "location": "unknown"
+    },
+    "The Walking Zed": {
+        "location": "North America"
+    },
+    "Thirsty Chinchillas": {
+        "location": "Singapore"
+    },
+    "ThunderBot": {
+        "location": "unknown"
+    },
+    "ThunderBot SPARTA": {
+        "location": "France"
+    },
+    "ThunderBot Sparta": {
+        "location": "unknown"
+    },
+    "ThunderX3 Baskonia": {
+        "location": "Spain"
+    },
+    "Tick Trick and Duck": {
+        "location": "Europe"
+    },
+    "Tigers": {
+        "location": "South Korea"
+    },
+    "Time-Out": {
+        "location": "unknown"
+    },
+    "To Be Determined": {
+        "location": "North America"
+    },
+    "To Infinity and Beyond": {
+        "location": "unknown"
+    },
+    "Top Dog Gaming": {
+        "location": "North America"
+    },
+    "TopGame": {
+        "location": "unknown"
+    },
+    "Totalna Kompromitacja": {
+        "location": "unknown"
+    },
+    "Toushi Halcyon": {
+        "location": "unknown"
+    },
+    "Tricked eSports": {
+        "location": "Denmark"
+    },
+    "Trident Esports": {
+        "location": "Australia"
+    },
+    "Trinket Esports": {
+        "location": "unknown"
+    },
+    "True eSport": {
+        "location": "unknown"
+    },
+    "Tt Dragons": {
+        "location": "Germany"
+    },
+    "Tt Dragons Taiwan": {
+        "location": "Taiwan"
+    },
+    "U Are handsome guys": {
+        "location": "unknown"
+    },
+    "U Rage QuiT": {
+        "location": "Argentina"
+    },
+    "UBC eSports": {
+        "location": "Canada"
+    },
+    "UC San Diego": {
+        "location": "San Diego, California"
+    },
+    "UIN Gaming": {
+        "location": "unknown"
+    },
+    "UIN Hawks": {
+        "location": "unknown"
+    },
+    "UNiTE Gaming": {
+        "location": "unknown"
+    },
+    "UT Austin": {
+        "location": "United States"
+    },
+    "Ultimate Legion": {
+        "location": "unknown"
+    },
+    "Uncle Ruckus' Revenge": {
+        "location": "Europe"
+    },
+    "Under Rated Gaming": {
+        "location": "unknown"
+    },
+    "Underdog": {
+        "location": "Thailand"
+    },
+    "Unicorns Of Love": {
+        "location": "Germany"
+    },
+    "Unique 5": {
+        "location": "unknown"
+    },
+    "University of Technology, Sydney": {
+        "location": "unknown"
+    },
+    "Unknown Skills Team": {
+        "location": "unknown"
+    },
+    "Unlimited Potential": {
+        "location": "China"
+    },
+    "Unsold Stuff Gaming": {
+        "location": "Japan"
+    },
+    "Ursus eSports": {
+        "location": "unknown"
+    },
+    "VAPE NAYS": {
+        "location": "unknown"
+    },
+    "VES PogChampy Stingers": {
+        "location": "unknown"
+    },
+    "VTG Monsters": {
+        "location": "unknown"
+    },
+    "Vaevictis eSports": {
+        "location": "Russia"
+    },
+    "Valencia CF eSports": {
+        "location": "Spain"
+    },
+    "Vanguard": {
+        "location": "unknown"
+    },
+    "Vega Squadron": {
+        "location": "Russia"
+    },
+    "Velocity eSports": {
+        "location": "North America"
+    },
+    "Vengeance eSports": {
+        "location": "unknown"
+    },
+    "Vestigial": {
+        "location": "Singapore"
+    },
+    "Vici Gaming": {
+        "location": "China"
+    },
+    "Vici Point Gaming": {
+        "location": "China"
+    },
+    "Vici Potential Gaming": {
+        "location": "China"
+    },
+    "Vici Stand Gaming": {
+        "location": "China"
+    },
+    "Vici Star Gaming": {
+        "location": "China"
+    },
+    "Victorious Ace": {
+        "location": "Turkey"
+    },
+    "Victory eSports": {
+        "location": "unknown"
+    },
+    "Viking Gaming": {
+        "location": "unknown"
+    },
+    "Vikings eSport": {
+        "location": "unknown"
+    },
+    "Vination eSports": {
+        "location": "unknown"
+    },
+    "Vince Te Ipsum": {
+        "location": "unknown"
+    },
+    "Virtual Throne Gaming": {
+        "location": "unknown"
+    },
+    "Virtuoso Gaming": {
+        "location": "South Korea"
+    },
+    "Virtus Legion": {
+        "location": "Argentina"
+    },
+    "Virtus.pro": {
+        "location": "Russia"
+    },
+    "Void Gaming": {
+        "location": "Greece"
+    },
+    "Void Team": {
+        "location": "unknown"
+    },
+    "Voracity Decreed": {
+        "location": "unknown"
+    },
+    "Vortex": {
+        "location": "North America"
+    },
+    "Vulcan Squad": {
+        "location": "unknown"
+    },
+    "VwS Gaming": {
+        "location": "unknown"
+    },
+    "WOLVES Gaming": {
+        "location": "unknown"
+    },
+    "WYDream": {
+        "location": "China"
+    },
+    "WaY": {
+        "location": "South Korea"
+    },
+    "Wan Yoo": {
+        "location": "China"
+    },
+    "WannaBeWithYou": {
+        "location": "Taiwan"
+    },
+    "WannaBeez": {
+        "location": "unknown"
+    },
+    "Wargods": {
+        "location": "Philippines"
+    },
+    "Wayi Spider": {
+        "location": "Taiwan"
+    },
+    "Wayi Spider e-Sports Team": {
+        "location": "China"
+    },
+    "Wazabi Gaming": {
+        "location": "North America"
+    },
+    "Western Wolves": {
+        "location": "Netherlands"
+    },
+    "White Lotus": {
+        "location": "unknown"
+    },
+    "Wild 4 Sports": {
+        "location": "unknown"
+    },
+    "Wild Crew": {
+        "location": "unknown"
+    },
+    "Wild Fire Academy": {
+        "location": "unknown"
+    },
+    "Wild Fire e-Sports Club": {
+        "location": "Turkey"
+    },
+    "Wild e-Sports": {
+        "location": "unknown"
+    },
+    "WingsOflibeRty": {
+        "location": "Taiwan"
+    },
+    "Winners": {
+        "location": "South Korea"
+    },
+    "Winterfox": {
+        "location": "United States"
+    },
+    "Wizards e-Sports Club": {
+        "location": "Spain"
+    },
+    "Wolves eSports": {
+        "location": "unknown"
+    },
+    "Wonder Stag e-Sports": {
+        "location": "Hungary"
+    },
+    "Work in Progress": {
+        "location": "unknown"
+    },
+    "World Talent Fusion": {
+        "location": "unknown"
+    },
+    "World Wide Wipers": {
+        "location": "unknown"
+    },
+    "Worth IT": {
+        "location": "unknown"
+    },
+    "XDG Gaming": {
+        "location": "United States"
+    },
+    "XDG Gaming Virtus": {
+        "location": "unknown"
+    },
+    "XIS e-Sports Club": {
+        "location": "unknown"
+    },
+    "XPX": {
+        "location": "unknown"
+    },
+    "XcN": {
+        "location": "Indonesia"
+    },
+    "Xenics": {
+        "location": "South Korea"
+    },
+    "Xenics Blast": {
+        "location": "South Korea"
+    },
+    "Xenics Storm": {
+        "location": "South Korea"
+    },
+    "Xgame": {
+        "location": "unknown"
+    },
+    "YoLMS": {
+        "location": "Taiwan"
+    },
+    "YouCantStopMe": {
+        "location": "Hong Kong"
+    },
+    "Young Boss": {
+        "location": "South Korea"
+    },
+    "Young Glory": {
+        "location": "China"
+    },
+    "Young Miracles": {
+        "location": "China"
+    },
+    "Your Exit": {
+        "location": "Europe"
+    },
+    "Your Soul Shall Chuffer": {
+        "location": "Australia"
+    },
+    "ZAGA Talent Gaming": {
+        "location": "El Salvador"
+    },
+    "ZONE eSports": {
+        "location": "Turkey"
+    },
+    "ZOTAC United": {
+        "location": "Vietnam"
+    },
+    "ZTR Gaming": {
+        "location": "China"
+    },
+    "ZeBopSquad": {
+        "location": "United States"
+    },
+    "Zenith eSports": {
+        "location": "North America"
+    },
+    "Zenith of Origin": {
+        "location": "unknown"
+    },
+    "Zero Latitude": {
+        "location": "unknown"
+    },
+    "affNity": {
+        "location": "United States"
+    },
+    "against All authority": {
+        "location": "France"
+    },
+    "ahq Amateur": {
+        "location": "unknown"
+    },
+    "ahq Fighter": {
+        "location": "Taiwan"
+    },
+    "ahq Girls": {
+        "location": "Taiwan"
+    },
+    "ahq Snipers": {
+        "location": "Taiwan"
+    },
+    "ahq e-Sports Club": {
+        "location": "Taiwan"
+    },
+    "ahq e-Sports Club Korea": {
+        "location": "South Korea"
+    },
+    "apeX eSports": {
+        "location": "unknown"
+    },
+    "be.inSide": {
+        "location": "unknown"
+    },
+    "compLexity Academy": {
+        "location": "United States"
+    },
+    "compLexity Gaming": {
+        "location": "United States"
+    },
+    "compLexity.Black": {
+        "location": "United States"
+    },
+    "compLexity.Red": {
+        "location": "United States"
+    },
+    "compLexity.White": {
+        "location": "United States"
+    },
+    "deMentes Gaming": {
+        "location": "unknown"
+    },
+    "dotpiXels": {
+        "location": "unknown"
+    },
+    "e-Champ Gaming": {
+        "location": "Brazil"
+    },
+    "e-Sport Club Visualize": {
+        "location": "unknown"
+    },
+    "e-Sports Dragons Pro": {
+        "location": "Taiwan"
+    },
+    "e-mFire": {
+        "location": "South Korea"
+    },
+    "e.o.s Gaming": {
+        "location": "Thailand"
+    },
+    "eMD ExeCuTioNeR": {
+        "location": "Hong Kong"
+    },
+    "eMD e-Sport Team": {
+        "location": "Taiwan"
+    },
+    "eMonkeyz": {
+        "location": "Spain"
+    },
+    "eSuba": {
+        "location": "Czech Republic"
+    },
+    "eXeAt eSports Club": {
+        "location": "Argentina"
+    },
+    "eXtatus": {
+        "location": "unknown"
+    },
+    "eXtreme Divide Ozone": {
+        "location": "Taiwan"
+    },
+    "eXtreme Gamers": {
+        "location": "Taiwan"
+    },
+    "easybads": {
+        "location": "unknown"
+    },
+    "energy-WAVE": {
+        "location": "unknown"
+    },
+    "exGBT": {
+        "location": "Poland"
+    },
+    "exGameburg Team": {
+        "location": "Poland"
+    },
+    "exHCL Gaming": {
+        "location": "unknown"
+    },
+    "exceL eSports": {
+        "location": "unknown"
+    },
+    "g3nerationX": {
+        "location": "Brazil"
+    },
+    "gman is beast": {
+        "location": "unknown"
+    },
+    "iQuit-Gaming Greece": {
+        "location": "Germany"
+    },
+    "ilu7ion GamerZ": {
+        "location": "unknown"
+    },
+    "inFerno eSports": {
+        "location": "unknown"
+    },
+    "logiX": {
+        "location": "Germany"
+    },
+    "mCon esports": {
+        "location": "unknown"
+    },
+    "mTw - aL": {
+        "location": "Europe"
+    },
+    "mTw North America": {
+        "location": "United States"
+    },
+    "mYinsanity": {
+        "location": "Switzerland"
+    },
+    "mortal Teamwork": {
+        "location": "Germany"
+    },
+    "mousesports": {
+        "location": "Germany"
+    },
+    "myGameLegends": {
+        "location": "unknown"
+    },
+    "myRevenge": {
+        "location": "Germany"
+    },
+    "myRevenge Australia": {
+        "location": "unknown"
+    },
+    "myRevenge CZ": {
+        "location": "unknown"
+    },
+    "myRevenge Chile": {
+        "location": "Chile"
+    },
+    "myRevenge Czech Republic": {
+        "location": "unknown"
+    },
+    "myRevenge Poland": {
+        "location": "unknown"
+    },
+    "myRevenge Romania": {
+        "location": "unknown"
+    },
+    "myRevenge Russia": {
+        "location": "unknown"
+    },
+    "myRevenge Spain": {
+        "location": "unknown"
+    },
+    "myRevenge Turkey": {
+        "location": "unknown"
+    },
+    "n!faculty": {
+        "location": "Germany"
+    },
+    "nDurance Gaming": {
+        "location": "unknown"
+    },
+    "nFear Gaming": {
+        "location": "United States"
+    },
+    "new comer": {
+        "location": "unknown"
+    },
+    "o papai chegou": {
+        "location": "unknown"
+    },
+    "oSk Gaming": {
+        "location": "unknown"
+    },
+    "overGame e-Sports Club": {
+        "location": "unknown"
+    },
+    "overused": {
+        "location": "unknown"
+    },
+    "paiN Gaming": {
+        "location": "Brazil"
+    },
+    "peculiar gaming": {
+        "location": "Germany"
+    },
+    "playArt Gaming": {
+        "location": "Brazil"
+    },
+    "sFera Gaming": {
+        "location": "unknown"
+    },
+    "semXorah Gaming": {
+        "location": "unknown"
+    },
+    "sirens A team": {
+        "location": "unknown"
+    },
+    "team imex": {
+        "location": "unknown"
+    },
+    "the monkeys": {
+        "location": "North America"
+    },
+    "unRestricted eSports": {
+        "location": "United States"
+    },
+    "v8 eSports": {
+        "location": "North America"
+    },
+    "vTi Ignis": {
+        "location": "Brazil"
+    },
+    "vTi Nox": {
+        "location": "Brazil"
+    },
+    "vVv Gaming": {
+        "location": "North America"
+    },
+    "vVv Gaming Brasil": {
+        "location": "unknown"
+    },
+    "vVv Gaming Red": {
+        "location": "North America"
+    },
+    "vVv Gaming White": {
+        "location": "North America"
+    },
+    "vitalGaming": {
+        "location": "unknown"
+    },
+    "wSystem e-Sports Club": {
+        "location": "Spain"
+    },
+    "we kill stuff": {
+        "location": "unknown"
+    },
+    "x6tence": {
+        "location": "Spain"
+    },
+    "xPerience eSports Club": {
+        "location": "unknown"
+    },
+    "yoe Flash Wolves": {
+        "location": "Taiwan"
+    },
+    "yoe Flash Wolves Junior": {
+        "location": "Taiwan"
+    },
+    "yoe IRONMEN": {
+        "location": "Taiwan"
+    },
+    "\u00c7\u0130LEKLER": {
+        "location": "Turkey"
+    },
+    "\u0421erebral Infantile Sharks": {
+        "location": "unknown"
+    },
+    "\u53f0\u7063\u5974\u738b\u8463\u9ed8\u5152": {
+        "location": "unknown"
+    },
+    "\u9b77\u9b5a\u82b1\u679d\u5e6b": {
+        "location": "unknown"
+    }
+}

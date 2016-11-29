@@ -10,30 +10,28 @@ fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
 adjFile = open(os.path.join(fileDir, relPath, "adjacencyList.all.longestTimeTogether.json"), "r", encoding="utf8")
-gdfFile = open(os.path.join(fileDir, relPath, "network.gdf"), "w", encoding="utf8")
+gdfFile = open(os.path.join(fileDir, relPath, "network2.gdf"), "w", encoding="utf8")
 
 playerFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "r", encoding="utf8")
 
 
-adjList = json.loads(adjFile.read())
-playerList = json.loads(playerFile.read())
 
-players = {}
-for player in playerList:
-    players[player["name"]] = player
-    
+adjList = json.loads(adjFile.read())
+playerData = json.loads(playerFile.read())
+
 
 
 nodes = []
 edges = []
 
 for player,teamMates in adjList.items():
-   
-    nodes.append([player, str(players[player]["lastDate"] -  players[player]["firstDate"])])
+    if len(playerData[player]['teams']) < 1:
+        continue
+    nodes.append([player, str(playerData[player]["lastDate"] -  playerData[player]["firstDate"]), playerData[player]["mostPlayedRegion"]])
     for teamMate,team in teamMates.items():
         edges.append([player,teamMate, str(team["end"] - team["start"])])
     
-gdfFile.write("nodedef>name VARCHAR, size DOUBLE\n")
+gdfFile.write("nodedef>name VARCHAR, size DOUBLE, region VARCHAR\n")
 
 for node in nodes:
     gdfFile.write(",".join(node) + "\n")

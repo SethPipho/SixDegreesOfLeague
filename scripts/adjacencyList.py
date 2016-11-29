@@ -46,7 +46,7 @@ def playedTogether(playerA, playerB):
         for b in teamsB:
             if (a["teamName"] == b["teamName"]):
                 overLapTime = overLap(a["start"], a["end"], b['start'], b['end'])
-                if overLapTime[0] != 0:
+                if overLapTime[0] != 0 and overLapTime[1] - overLapTime[0] != 0:
                     data = {"teamName" : a["teamName"], "position":a["position"], "start":overLapTime[0], 'end': overLapTime[1]}
                     sameTime.append(data)
                     if (overLapTime[0] > overLapTime[1]):

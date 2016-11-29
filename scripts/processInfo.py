@@ -30,6 +30,7 @@ playerData['Rhuckz']["teams"][-1]["end"] = "Present"
 playerData['Malunoo']["teams"][2]["start"] = "Jan 2012" 
 playerData['HoneyRain']["teams"][-1]["end"] = "Present" 
 playerData['JothY']["teams"][0]["start"] = "Oct 2011" 
+playerData['LaoPi']["teams"][5]["start"] = "Feb 2014" 
 
 
 
@@ -37,6 +38,18 @@ playerData['JothY']["teams"][0]["start"] = "Oct 2011"
 for player, data in playerData.items():
     for i in range(len(data['teams']) - 1,-1,-1):
         if "?" in data["teams"][i]["start"] or "?" in data["teams"][i]["end"]:
+            data["teams"].pop(i)
+
+#filter out caster position
+for player, data in playerData.items():
+    for i in range(len(data['teams']) - 1,-1,-1):
+        if data["teams"][i]["position"].lower() == "caster":
+            data["teams"].pop(i)
+
+#filter out suspeneded
+for player, data in playerData.items():
+    for i in range(len(data['teams']) - 1,-1,-1):
+        if data["teams"][i]["teamName"] == "":
             data["teams"].pop(i)
 
 
@@ -90,6 +103,74 @@ for player,data in playerData.items():
 
         playerData[player]["firstDate"] = firstDate
         playerData[player]["lastDate"] = lastDate
+
+
+
+
+
+#set region they most recent played inm if change figure it out, set region to that of birthplace
+teamFile = open(os.path.join(fileDir, relPath, "teamInfo.json"), "r", encoding="utf8")
+
+teamInfo = json.loads(teamFile.read())
+
+for player,data in playerData.items():
+
+    try:
+        team = data["teams"][-1]["teamName"]
+        region = teamInfo[team]["region"]
+        playerData[player]["currenTregion"] = region
+    except:
+         playerData[player]["currentRegion"] = "X"
+
+
+#set region most played in
+
+
+for player,data in playerData.items():
+
+   
+    regionsPlayed = {}
+    print(player)
+
+    for team in data["teams"]:
+        if team == "":
+            continue
+        region = teamInfo[team["teamName"]]["region"]
+        timePlayed = team["end"] - team['start']
+
+        if region not in regionsPlayed:
+            regionsPlayed[region] = 0
+            
+        regionsPlayed[region] += timePlayed
+    
+    times = []
+
+    for region, time in regionsPlayed.items():
+        times.append({"region":region, "time": time })
+    
+    times.sort(key= lambda t: t["time"])
+
+    if len(times) > 0:
+        playerData[player]["mostPlayedRegion"] = times[-1]["region"]
+    else:
+        print(playerData[player])
+        playerData[player]["mostPlayedRegion"] = "X"
+
+
+#convert all X regions into region of country
+
+regions = {'New Zealand':"OCE",'Estonia':"EU",'Paraguay':"EU",'Slovenia':"EU", 'Thailand': 'SEA', "Austria":'EU','Bulgaria':"EU","Panama":"LA", 'South America': 'LA', 'Portugal': 'EU', 'Ukraine': 'RUSS', 'Denmark': 'EU', 'Japan': 'JAP', 'Norway': 'EU', 'Netherlands': 'EU', 'Philippines': 'SEA', 'Poland': 'EU', 'Czech Republic': 'EU', 'Hungary': 'EU', 'El Salvador': 'LA', 'United States': 'NA', 'Vietnam': 'SEA', 'Argentina': 'LA', 'Hong Kong': 'LMS', 'Uruguay': 'LA', 'Colombia': 'LA', 'Lithuania': 'EU', 'United Kingdom': 'EU', 'Chile': 'LA', 'Southeast Asia': 'SEA', 'Indonesia': 'SEA', 'Belgium': 'EU', 'Singapore': 'SEA', 'Spain': 'EU', 'Slovakia': 'EU', 'Venezuela': 'LA', 'North America': 'NA', 'Australia': 'OCE', 'Brazil': 'BR', 'Taiwan': 'LMS', 'Russia': 'RUSS', 'Canada': 'NA', 'Malaysia': 'SEA', 'Switzerland': 'EU', 'Germany': 'EU', 'San Diego, California': 'NA', 'Europe': 'EU', 'France': 'EU', 'unknown': 'X', 'Costa Rica': 'LA', 'Sweden': 'EU', 'Finland': 'EU', 'South Korea': 'KR', 'Peru': 'LA', 'Mexico': 'LA', 'Turkey': 'TR', 'China': 'CN', 'Italy': 'EU', 'Greece': 'EU'}
+    
+
+for player,data in playerData.items():
+    if  playerData[player]["mostPlayedRegion"] == "X":
+        playerData[player]["mostPlayedRegion"] = regions[playerData[player]["country"]]
+  
+
+
+
+
+
         
 
 outFile.write(json.dumps(playerData, indent=4, sort_keys=True))

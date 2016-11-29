@@ -1,0 +1,573 @@
+AgFox,list index out of range
+Distrikt,list index out of range
+Exile 5,list index out of range
+Against the Wall,list index out of range
+CTU Revolt,list index out of range
+Dednakai Gaming,list index out of range
+Czas Rozliczen,list index out of range
+Bigfile Amor,list index out of range
+Falafel Gaming,list index out of range
+FlipSide E-Sports,list index out of range
+Avalanche eSports Prime,list index out of range
+Beautiful Life Gaming,list index out of range
+Clanless,list index out of range
+Aria eSports,list index out of range
+DnG.Panda,list index out of range
+Exotic Island Gaming,list index out of range
+5 Deadly Sins,list index out of range
+Czas Rozliczeń,list index out of range
+Fluffy Gaming,list index out of range
+Avamt Academy,list index out of range
+ASES e-Sports Club,list index out of range
+Arise Team,list index out of range
+Fraternitas,list index out of range
+Expert Players,list index out of range
+Black Ravens,list index out of range
+Dexter is actually evil,list index out of range
+7 Belo,list index out of range
+DD2,list index out of range
+Avant Academy,list index out of range
+Armata Gaming,list index out of range
+Extreme Dive Gaming,list index out of range
+BlackThorn Gaming,list index out of range
+7B e-Sports,list index out of range
+DELTAeSPORTS,list index out of range
+Ahraz Esports,list index out of range
+China Korea Dragonz,list index out of range
+F4F e-Sports,list index out of range
+AceZone Alliance,list index out of range
+DnH V Exiles,list index out of range
+Enigma Esports,list index out of range
+7b eSports,list index out of range
+DK Team,list index out of range
+Akiba Bullets,list index out of range
+Art of War,list index out of range
+Choke Gaming,list index out of range
+E corp Gentle,list index out of range
+AceZone e-Sports,list index out of range
+Epic Paradise,list index out of range
+DRUCKWELLE,list index out of range
+Fidelis,list index out of range
+Akiba Slayers,list index out of range
+Choppa In Da Car,list index out of range
+Ascension,list index out of range
+Broski,list index out of range
+DSO,list index out of range
+Albus NoX Cometa,list index out of range
+Chungcheongnam,list index out of range
+Drub eSports,list index out of range
+Diam La Gaming,list index out of range
+Frenetic Array,list index out of range
+BEHIVE e-Sports,list index out of range
+Frequency Gaming,list index out of range
+Chuuper's Troopers,list index out of range
+BLAST,list index out of range
+Druken Bear,list index out of range
+Bonjwas,list index out of range
+Donate Me Please,list index out of range
+Friday Night,list index out of range
+BX3 EK,list index out of range
+Clan Poland,list index out of range
+Bonobo eSport Gaming,list index out of range
+FIGJAM,list index out of range
+Dai Dai Gaming,list index out of range
+Frères Du Purgatoire,list index out of range
+Baby Build House,list index out of range
+Future Fighters eSports,list index out of range
+DaiDai Gaming,list index out of range
+Ban Karma Gaming,list index out of range
+FMF eSports Club,list index out of range
+Dank Dang Gaming,list index out of range
+Caseking Gaming,list index out of range
+All or Nothing,list index out of range
+3 Piglet,list index out of range
+Dank Memers,list index out of range
+Celerius e-Sports,list index out of range
+Atlantis eSports,list index out of range
+AllLaneCarry,list index out of range
+Faceless Order,list index out of range
+GSU aXe,list index out of range
+Celestial Gaming,list index out of range
+ECVisualize,list index out of range
+Awake,list index out of range
+AtroX eSports,list index out of range
+A Little Bear,list index out of range
+Bottled Water,list index out of range
+Centus Gaming,list index out of range
+Equitum Gaming,list index out of range
+Evil Sharks,list index out of range
+Avalanche Russian Rangers,list index out of range
+DxG Coup de Grace,list index out of range
+Ex Dreamers,list index out of range
+Escalate Legion Gaming,list index out of range
+Adeks e-Sports,list index out of range
+Grumpy Wolves,list index out of range
+FurIR,list index out of range
+Escape the Ninja Pandas,list index out of range
+Adversa eSports,list index out of range
+Grüzowe Chrabaszcze,list index out of range
+Best Players Ocean,list index out of range
+Cerberus eSports,list index out of range
+Fureur,list index out of range
+Enemy Rampage,list index out of range
+Dream,list index out of range
+Aequus Club,list index out of range
+Best UK Team Kappa,list index out of range
+Cerebral Infantile Sharks,list index out of range
+ALSEN Team,list index out of range
+Desert Wolves,list index out of range
+HKEGG,list index out of range
+Aesthetic Gaming,list index out of range
+Darkness,list index out of range
+ANG Academy,list index out of range
+Beşiktaş Black Eagles,list index out of range
+Holynn,list index out of range
+HOODSTOMPGRAVESGG,list index out of range
+CNB Brutalizer,list index out of range
+Destroy Gaming,list index out of range
+CDAY Gaming,list index out of range
+Aztek Gaming,list index out of range
+Esquadrão Classe A,list index out of range
+Exceltec E-Sports,list index out of range
+GamesterGear,list index out of range
+Gunwa,list index out of range
+Baskonia Atlantis,list index out of range
+Creta Gaming,list index out of range
+Exceltec Predators,list index out of range
+Exertus Esports,list index out of range
+Exertus eSports Zeal,list index out of range
+CNB Trinity Blue,list index out of range
+Furious Gaming Academy,list index out of range
+CNB Trinity White,list index out of range
+Insidious Gaming Demons,list index out of range
+DatZit Gaming Fire,list index out of range
+Judgement,list index out of range
+DatZit Gaming Ice,list index out of range
+EQUALITY,list index out of range
+Be a Legend,list index out of range
+Bida Gaming,list index out of range
+DeToNator,list index out of range
+Deadnakai Gaming,list index out of range
+Crossover eSports,list index out of range
+Debilos Mentalos,list index out of range
+Crowd Control,list index out of range
+Lamasticrew Black,list index out of range
+Kulturalni Zawodnicy,list index out of range
+Helter Skelter,list index out of range
+Infernal Specters,list index out of range
+Just Your Average Joes,list index out of range
+Absolute Legends.Omega,list index out of range
+Flashback,list index out of range
+Last Group,list index out of range
+GIVE IT ALL,list index out of range
+K-RNAGE ESPORT,list index out of range
+Hydrus Gaming,list index out of range
+Heroic eSports,list index out of range
+Kx.LM,list index out of range
+LoLLeague,list index out of range
+Elements Gaming,list index out of range
+Game Hunters,list index out of range
+Hyper,list index out of range
+High Sea Tigers,list index out of range
+Arairhor,list index out of range
+LoLUP.net,list index out of range
+Last Remedy,list index out of range
+Energy Pacemaker.Fearless,list index out of range
+Game Over,list index out of range
+LF:Org,list index out of range
+HoL Elements,list index out of range
+LodeStone,list index out of range
+Latin Soldier Gaming,list index out of range
+Energy Pacemaker.Future,list index out of range
+Disciples of Da Gr8 Whale Lord,list index out of range
+LG Hunters,list index out of range
+Leethuanyan,list index out of range
+HollowHeroes,list index out of range
+GSU Gaming,list index out of range
+Competo Sports,list index out of range
+Gathers e-Sports,list index out of range
+Marshrutka eSports,list index out of range
+Leethuanyans,list index out of range
+GSU Gaming aXe,list index out of range
+Holy Sheep,list index out of range
+CooLife Gaming,list index out of range
+Genetic Gaming,list index out of range
+HCL Gaming,list index out of range
+Les Frères du Purgatoire,list index out of range
+Cursed Giants,list index out of range
+Might Team,list index out of range
+MTG,list index out of range
+Get Over It,list index out of range
+HDYS,list index out of range
+Les Touristes,list index out of range
+Hyperion E-Sports,list index out of range
+Motion Gaming,list index out of range
+Cyber Gamer e-Sports,list index out of range
+MTK eSports,list index out of range
+Mad Dogs,list index out of range
+Maryville plus grill,list index out of range
+Les clochards,list index out of range
+Hyperion eSports,list index out of range
+Influxo Gaming,list index out of range
+MyBoys,list index out of range
+COGnitive Gaming Forge,list index out of range
+CyberTeK-Gaming,list index out of range
+Hanoi Phoenix,list index out of range
+HITBOX e-Sports,list index out of range
+Like A Boss,list index out of range
+GameSatis,list index out of range
+Inglorious Retards,list index out of range
+MySports,list index out of range
+Mad Theory,list index out of range
+Never Ending Cycle,list index out of range
+Hanoi SnowBall,list index out of range
+Nexus Gaming,list index out of range
+GameTV,list index out of range
+Insane Fast Footwork,list index out of range
+Line5,list index out of range
+Imperium Pro Team Blue,list index out of range
+Mentality Gaming,list index out of range
+Never g1ve up,list index out of range
+Lions EK,list index out of range
+Fortius,list index out of range
+Nice Work Dude,list index out of range
+Monomaniac Evito,list index out of range
+It's Gosu eSports,list index out of range
+I'll Carry U,list index out of range
+Kill Steal Gaming,list index out of range
+Meow,list index out of range
+Luna Gaming,list index out of range
+Liquicity,list index out of range
+NeverBack Gaming,list index out of range
+Forty Bus Gaming,list index out of range
+Nickwu Tang Clan,list index out of range
+Icicle Blade,list index out of range
+Klaj does it all,list index out of range
+Meteorite.GTS,list index out of range
+Lunáticos Black Side,list index out of range
+New Blaze,list index out of range
+Night Inside,list index out of range
+Icicle Shield,list index out of range
+KoaLa Lampa Hunters,list index out of range
+MaxFloPlay,list index out of range
+Los Gorditos Loleros,list index out of range
+Lunáticos Yellow Side,list index out of range
+New Type Gaming,list index out of range
+Night Walkers,list index out of range
+Hard Random Academy,list index out of range
+Icosaedro TRUNCADO,list index out of range
+Nowe Rozdanie,list index out of range
+NGG,list index out of range
+No Need Orga,list index out of range
+Los Marias,list index out of range
+MaximuM e-Sports Club,list index out of range
+Nightlife Gaming EU,list index out of range
+Ordo Equitum,list index out of range
+NewRoSoft,list index out of range
+Number One,list index out of range
+NIMBY Gaming,list index out of range
+No Remorse eSports,list index out of range
+Los Poros Loleros,list index out of range
+Nilüfer BelediyEspor 1603,list index out of range
+Ildal Lions,list index out of range
+Make Sense Gaming,list index out of range
+Monomaniac Imperium,list index out of range
+NKT,list index out of range
+No Team Name Necessary,list index out of range
+Lost in Rotation,list index out of range
+NinjaQK,list index out of range
+Phantoms,list index out of range
+Monomaniac Peritus,list index out of range
+Power Gamers,list index out of range
+La GG,list index out of range
+NoNeedOrga,list index out of range
+Mebdi's Minions,list index out of range
+Monomaniac Ultimus,list index out of range
+Parabellum Esports,list index out of range
+Lamasticrew,list index out of range
+Kramm Crew xD,list index out of range
+MYSM,list index out of range
+No Big Deal,list index out of range
+Naga Esports,list index out of range
+Legendary Squad Aesir,list index out of range
+Make it Happen,list index out of range
+Kappa Team,list index out of range
+Kryzys Gospodarczy,list index out of range
+Rest in piecez,list index out of range
+MiG Wicked,list index out of range
+Rino Purple,list index out of range
+Malph Paper Scissors,list index out of range
+Karnage eSports,list index out of range
+Krzak,list index out of range
+Royal Team,list index out of range
+JYAJ,list index out of range
+RevenGGe Team,list index out of range
+Rock Solid (Argentina),list index out of range
+PrideZ,list index out of range
+Nyan Cat,list index out of range
+Qlimax Crew,list index out of range
+Revenge Served Cold,list index out of range
+Could Have Been Stronk,list index out of range
+Riot Games Inc.,list index out of range
+Rock Solid AR,list index out of range
+Pick a Card,list index out of range
+Narwhals,list index out of range
+Nyan Zone,list index out of range
+Mindfreak,list index out of range
+Rackgames,list index out of range
+Rising On Gaming,list index out of range
+PDR Gaming,list index out of range
+Pickleberry,list index out of range
+Rock Solid Argentina,list index out of range
+NexGen eSports Mirage,list index out of range
+Mindfreak eSports,list index out of range
+Kero,list index out of range
+Gosu All Stars,list index out of range
+Old BoyZ,list index out of range
+Kevin is a Noob,list index out of range
+Lzuruha Gaming,list index out of range
+Old School Punchlines,list index out of range
+Season 6 Players,list index out of range
+Noble eSports,list index out of range
+OHGODBEARS,list index out of range
+MantraW,list index out of range
+Skulls Club,list index out of range
+Monsteresports,list index out of range
+SLK Gaming,list index out of range
+OMNI e-Sports,list index out of range
+Segui la Call,list index out of range
+Only Gragas,list index out of range
+Solo Kill,list index out of range
+SwestiC,list index out of range
+S H O W T I M E,list index out of range
+SteelShock Gaming,list index out of range
+SkyRed,list index out of range
+Mook Secret,list index out of range
+SLK Gaming Black,list index out of range
+Revival Esports,list index out of range
+Oblivion eSports,list index out of range
+Severity Gaming,list index out of range
+Orion Esports,list index out of range
+SouLControL,list index out of range
+Mortality eSports,list index out of range
+Seoul City,list index out of range
+Revolt Gentlemen E-Sports Club,list index out of range
+Stomp eSports,list index out of range
+REBORN XD,list index out of range
+Osos Mafiosos,list index out of range
+Shadow e-Sports,list index out of range
+Ocean Kings,list index out of range
+Soul Gamer,list index out of range
+Random Team Name,list index out of range
+STAR,list index out of range
+Misfits,list index out of range
+MCRC,list index out of range
+Sequential Gaming Europe,list index out of range
+Roaming Dragons,list index out of range
+Necrofantasian,list index out of range
+Out of Position,list index out of range
+RandomTeamName,list index out of range
+STREAM TEAM FR,list index out of range
+Team Bubble,list index out of range
+Sequestial Gaming,list index out of range
+Slaughter Gaming,list index out of range
+Shantao macht Wau,list index out of range
+Team Cursive,list index out of range
+Noob da Net,list index out of range
+Revolution Gamers,list index out of range
+Ranked Gaming,list index out of range
+TTD Toybox,list index out of range
+Project Challenger,list index out of range
+Team C3,list index out of range
+SUMMA.GG,list index out of range
+Seraphic Nexus,list index out of range
+Shenfire is Elo Booster,list index out of range
+Small Dads GO to heaven,list index out of range
+Nothing to Lose.Fluffy,list index out of range
+PLATINRUSHH,list index out of range
+Team Cappadocia,list index out of range
+Serenus Gaming,list index out of range
+Shot eSports Club,list index out of range
+SmartPeople,list index out of range
+PSW Ares,list index out of range
+Roaring Agony,list index out of range
+Red Dead e.Sports,list index out of range
+Serpentis eSports,list index out of range
+Pentakill,list index out of range
+PaPaKanKanPaPa,list index out of range
+Robert Morris University,list index out of range
+Team Derpers,list index out of range
+TCA eSports,list index out of range
+RGESC Beta,list index out of range
+Reign eSports,list index out of range
+Simple Gaming,list index out of range
+Pentakill.gr,list index out of range
+Team Erase,list index out of range
+Team Lioncast,list index out of range
+Rejected,list index out of range
+Team God Mode,list index out of range
+Miss in Action,list index out of range
+Team Popmog,list index out of range
+Super Team NA,list index out of range
+TDX Gaming,list index out of range
+Mistakes Were Made,list index out of range
+Team Shadows,list index out of range
+Playing-Ducks,list index out of range
+Ray of Deads,list index out of range
+Rock Bottom Gorillas,list index out of range
+Team Alternate Academy,list index out of range
+Team Solo Mebdi,list index out of range
+Perilous Gaming Rift,list index out of range
+Royal Paladin Reverse,list index out of range
+Team Amine,list index out of range
+MonKey Army,list index out of range
+Reality Check Gaming,list index out of range
+Perilous Gaming Void,list index out of range
+Team Innova,list index out of range
+Pwn3ed e-Sports,list index out of range
+TeamLeagueHunters,list index out of range
+UNiTE Gaming,list index out of range
+QCTW,list index out of range
+TeamMostWanted,list index out of range
+Team Ares,list index out of range
+The Gentle Team,list index out of range
+Ursus eSports,list index out of range
+Team Mistral RO,list index out of range
+Team Asterion,list index out of range
+Ultimate Legion,list index out of range
+VAPE NAYS,list index out of range
+The Gentlemen's Guild,list index out of range
+ThunderBot Sparta,list index out of range
+Team Astral Poke,list index out of range
+TNE,list index out of range
+VES PogChampy Stingers,list index out of range
+Tera-Gaming,list index out of range
+Team Gyrations,list index out of range
+Poussins.Gaming,list index out of range
+Sintox eSports,list index out of range
+TNP Gaming EU,list index out of range
+VTG Monsters,list index out of range
+Supreme Tenacity,list index out of range
+Team HD,list index out of range
+Team NewRoSoft,list index out of range
+Wild e-Sports,list index out of range
+TRICKED_eSPORT,list index out of range
+Team IMBA.PH,list index out of range
+Ozone Darkness,list index out of range
+Under Rated Gaming,list index out of range
+XDG Gaming Virtus,list index out of range
+WannaBeez,list index out of range
+Team Normal Stars,list index out of range
+XIS e-Sports Club,list index out of range
+Void Team,list index out of range
+Trinket Esports,list index out of range
+TakeCover-Gaming,list index out of range
+XPX,list index out of range
+Voracity Decreed,list index out of range
+True eSport,list index out of range
+SoNiC,list index out of range
+The Samurai Road,list index out of range
+Team Kappa Prime,list index out of range
+Team Cougar,list index out of range
+Team Crowd Control,list index out of range
+Team Rage,list index out of range
+Vanguard,list index out of range
+Vulcan Squad,list index out of range
+U Are handsome guys,list index out of range
+Wolves eSports,list index out of range
+Team Replika,list index out of range
+ThunderBot,list index out of range
+VwS Gaming,list index out of range
+eXtatus,list index out of range
+Team Galaxy,list index out of range
+WOLVES Gaming,list index out of range
+Team Kubiko,list index out of range
+gman is beast,list index out of range
+deMentes Gaming,list index out of range
+ahq Amateur,list index out of range
+Unique 5,list index out of range
+Time-Out,list index out of range
+team imex,list index out of range
+dotpiXels,list index out of range
+myRevenge Australia,list index out of range
+University of Technology, Sydney,list index out of range
+The Dragon Lair,list index out of range
+Team Secret,list index out of range
+myRevenge CZ,list index out of range
+Unknown Skills Team,list index out of range
+ilu7ion GamerZ,list index out of range
+Team LGL,list index out of range
+Team Unlimited,list index out of range
+Xgame,list index out of range
+we kill stuff,list index out of range
+new comer,list index out of range
+Work in Progress,list index out of range
+Team Longview,list index out of range
+Team Ozone Taiwan,list index out of range
+inFerno eSports,list index out of range
+White Lotus,list index out of range
+SteelSeries WIE,list index out of range
+Team VEX,list index out of range
+o papai chegou,list index out of range
+World Talent Fusion,list index out of range
+Team TLC,list index out of range
+To Infinity and Beyond,list index out of range
+Wild 4 Sports,list index out of range
+Vengeance eSports,list index out of range
+UIN Gaming,list index out of range
+easybads,list index out of range
+Victory eSports,list index out of range
+Team VGR,list index out of range
+myRevenge Czech Republic,list index out of range
+World Wide Wipers,list index out of range
+oSk Gaming,list index out of range
+mCon esports,list index out of range
+UIN Hawks,list index out of range
+Wild Crew,list index out of range
+Team Majestic,list index out of range
+e-Sport Club Visualize,list index out of range
+Team Testo,list index out of range
+Viking Gaming,list index out of range
+Worth IT,list index out of range
+energy-WAVE,list index out of range
+myRevenge Poland,list index out of range
+Wild Fire Academy,list index out of range
+overGame e-Sports Club,list index out of range
+Vikings eSport,list index out of range
+TopGame,list index out of range
+myRevenge Romania,list index out of range
+Team XXX,list index out of range
+Team Infinity,list index out of range
+xPerience eSports Club,list index out of range
+overused,list index out of range
+Vination eSports,list index out of range
+Totalna Kompromitacja,list index out of range
+Team YSCC,list index out of range
+Vince Te Ipsum,list index out of range
+myRevenge Russia,list index out of range
+Toushi Halcyon,list index out of range
+Team TowerDiveTV,list index out of range
+Team Vulcan (Chile),list index out of range
+Team Zero,list index out of range
+exHCL Gaming,list index out of range
+Virtual Throne Gaming,list index out of range
+myRevenge Spain,list index out of range
+exceL eSports,list index out of range
+myRevenge Turkey,list index out of range
+Zenith of Origin,list index out of range
+Team ephix,list index out of range
+vVv Gaming Brasil,list index out of range
+Zero Latitude,list index out of range
+Team in Game,list index out of range
+Team-Birth,list index out of range
+apeX eSports,list index out of range
+nDurance Gaming,list index out of range
+be.inSide,list index out of range
+vitalGaming,list index out of range
+sFera Gaming,list index out of range
+Сerebral Infantile Sharks,list index out of range
+myGameLegends,list index out of range
+semXorah Gaming,list index out of range
+台灣奴王董默兒,list index out of range
+魷魚花枝幫,list index out of range
+sirens A team,list index out of range
