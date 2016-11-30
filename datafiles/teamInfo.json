@@ -2097,7 +2097,7 @@
     },
     "Instruments of Surrender": {
         "location": "Ukraine",
-        "region": "RUSS"
+        "region": "EU"
     },
     "Intellectual Playground": {
         "location": "Denmark",
@@ -2905,11 +2905,11 @@
     },
     "Natus Vincere": {
         "location": "Ukraine",
-        "region": "RUSS"
+        "region": "EU"
     },
     "Natus Vincere.CIS": {
         "location": "Ukraine",
-        "region": "RUSS"
+        "region": "EU"
     },
     "Necrofantasian": {
         "location": "unknown",
@@ -4476,8 +4476,8 @@
         "region": "NA"
     },
     "Team Liquid Academy": {
-        "location": "Netherlands",
-        "region": "EU"
+        "location": "United States",
+        "region": "NA"
     },
     "Team Livemore": {
         "location": "China",

@@ -18,6 +18,7 @@ teamData = json.loads(teamFile.read())
 #unique fixes
 teamData["Team Dignitas"]["location"] = "United States"
 teamData["Team Liquid"]["location"] = "United States"
+teamData["Team Liquid Academy"]["location"] = "United States"
 
 
 #used to generate reagion list
@@ -42,7 +43,7 @@ print(regions)
 
 
 
-regions = {'New Zealand':"OCE",'Estonia':"EU",'Paraguay':"EU",'Slovenia':"EU", 'Thailand': 'SEA', "Austria":'EU','Bulgaria':"EU","Panama":"LA", 'South America': 'LA', 'Portugal': 'EU', 'Ukraine': 'RUSS', 'Denmark': 'EU', 'Japan': 'JAP', 'Norway': 'EU', 'Netherlands': 'EU', 'Philippines': 'SEA', 'Poland': 'EU', 'Czech Republic': 'EU', 'Hungary': 'EU', 'El Salvador': 'LA', 'United States': 'NA', 'Vietnam': 'SEA', 'Argentina': 'LA', 'Hong Kong': 'LMS', 'Uruguay': 'LA', 'Colombia': 'LA', 'Lithuania': 'EU', 'United Kingdom': 'EU', 'Chile': 'LA', 'Southeast Asia': 'SEA', 'Indonesia': 'SEA', 'Belgium': 'EU', 'Singapore': 'SEA', 'Spain': 'EU', 'Slovakia': 'EU', 'Venezuela': 'LA', 'North America': 'NA', 'Australia': 'OCE', 'Brazil': 'BR', 'Taiwan': 'LMS', 'Russia': 'RUSS', 'Canada': 'NA', 'Malaysia': 'SEA', 'Switzerland': 'EU', 'Germany': 'EU', 'San Diego, California': 'NA', 'Europe': 'EU', 'France': 'EU', 'unknown': 'X', 'Costa Rica': 'LA', 'Sweden': 'EU', 'Finland': 'EU', 'South Korea': 'KR', 'Peru': 'LA', 'Mexico': 'LA', 'Turkey': 'TR', 'China': 'CN', 'Italy': 'EU', 'Greece': 'EU'}
+regions = {'New Zealand':"OCE",'Estonia':"EU",'Paraguay':"EU",'Slovenia':"EU", 'Thailand': 'SEA', "Austria":'EU','Bulgaria':"EU","Panama":"LA", 'South America': 'LA', 'Portugal': 'EU', 'Ukraine': 'EU', 'Denmark': 'EU', 'Japan': 'JAP', 'Norway': 'EU', 'Netherlands': 'EU', 'Philippines': 'SEA', 'Poland': 'EU', 'Czech Republic': 'EU', 'Hungary': 'EU', 'El Salvador': 'LA', 'United States': 'NA', 'Vietnam': 'SEA', 'Argentina': 'LA', 'Hong Kong': 'LMS', 'Uruguay': 'LA', 'Colombia': 'LA', 'Lithuania': 'EU', 'United Kingdom': 'EU', 'Chile': 'LA', 'Southeast Asia': 'SEA', 'Indonesia': 'SEA', 'Belgium': 'EU', 'Singapore': 'SEA', 'Spain': 'EU', 'Slovakia': 'EU', 'Venezuela': 'LA', 'North America': 'NA', 'Australia': 'OCE', 'Brazil': 'BR', 'Taiwan': 'LMS', 'Russia': 'RUSS', 'Canada': 'NA', 'Malaysia': 'SEA', 'Switzerland': 'EU', 'Germany': 'EU', 'San Diego, California': 'NA', 'Europe': 'EU', 'France': 'EU', 'unknown': 'X', 'Costa Rica': 'LA', 'Sweden': 'EU', 'Finland': 'EU', 'South Korea': 'KR', 'Peru': 'LA', 'Mexico': 'LA', 'Turkey': 'TR', 'China': 'CN', 'Italy': 'EU', 'Greece': 'EU'}
 
 
 

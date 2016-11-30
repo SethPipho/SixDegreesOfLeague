@@ -115,23 +115,23 @@ teamInfo = json.loads(teamFile.read())
 
 for player,data in playerData.items():
 
-    try:
+    print(player)
+    if len(data["teams"]) > 0:
         team = data["teams"][-1]["teamName"]
         region = teamInfo[team]["region"]
-        playerData[player]["currenTregion"] = region
-    except:
-         playerData[player]["currentRegion"] = "X"
+        playerData[player]["currentRegion"] = region
+    
+    else:
+        playerData[player]["currentRegion"] = "X"
 
 
 #set region most played in
-
 
 for player,data in playerData.items():
 
    
     regionsPlayed = {}
-    print(player)
-
+    
     for team in data["teams"]:
         if team == "":
             continue
@@ -157,7 +157,7 @@ for player,data in playerData.items():
         playerData[player]["mostPlayedRegion"] = "X"
 
 
-#convert all X regions into region of country
+#convert all X regions into region of birth
 
 regions = {'New Zealand':"OCE",'Estonia':"EU",'Paraguay':"EU",'Slovenia':"EU", 'Thailand': 'SEA', "Austria":'EU','Bulgaria':"EU","Panama":"LA", 'South America': 'LA', 'Portugal': 'EU', 'Ukraine': 'RUSS', 'Denmark': 'EU', 'Japan': 'JAP', 'Norway': 'EU', 'Netherlands': 'EU', 'Philippines': 'SEA', 'Poland': 'EU', 'Czech Republic': 'EU', 'Hungary': 'EU', 'El Salvador': 'LA', 'United States': 'NA', 'Vietnam': 'SEA', 'Argentina': 'LA', 'Hong Kong': 'LMS', 'Uruguay': 'LA', 'Colombia': 'LA', 'Lithuania': 'EU', 'United Kingdom': 'EU', 'Chile': 'LA', 'Southeast Asia': 'SEA', 'Indonesia': 'SEA', 'Belgium': 'EU', 'Singapore': 'SEA', 'Spain': 'EU', 'Slovakia': 'EU', 'Venezuela': 'LA', 'North America': 'NA', 'Australia': 'OCE', 'Brazil': 'BR', 'Taiwan': 'LMS', 'Russia': 'RUSS', 'Canada': 'NA', 'Malaysia': 'SEA', 'Switzerland': 'EU', 'Germany': 'EU', 'San Diego, California': 'NA', 'Europe': 'EU', 'France': 'EU', 'unknown': 'X', 'Costa Rica': 'LA', 'Sweden': 'EU', 'Finland': 'EU', 'South Korea': 'KR', 'Peru': 'LA', 'Mexico': 'LA', 'Turkey': 'TR', 'China': 'CN', 'Italy': 'EU', 'Greece': 'EU'}
     
@@ -167,7 +167,19 @@ for player,data in playerData.items():
         playerData[player]["mostPlayedRegion"] = regions[playerData[player]["country"]]
   
 
+#Uniques fixes regarding regions
 
+playerData["Canisgood"]["mostPlayedRegion"] = "LMS"
+playerData["Canisgood"]["currentRegion"] = "LMS"
+
+playerData["Gshan"]["mostPlayedRegion"] = "LMS"
+playerData["Gshan"]["currentRegion"] = "LMS"
+
+playerData["Fluidwind"]["mostPlayedRegion"] = "LMS"
+playerData["Fluidwind"]["currentRegion"] = "LMS"
+
+playerData["Wendelbo"]["mostPlayedRegion"] = "EU"
+playerData["Wendelbo"]["currentRegion"] = "EU"
 
 
 
