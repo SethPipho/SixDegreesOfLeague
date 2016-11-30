@@ -24,7 +24,7 @@ The color of each node denotes what region they played the longest in. The size 
 of the player's career. The connections between players are weighted by how long the spent together, eg teams
 of players who have played together for a long time tend to cluster together.
 
-[](http://i.imgur.com/ezfDIcw.jpg)
+![Alt text](http://i.imgur.com/ezfDIcw.jpg)
 
 
 
