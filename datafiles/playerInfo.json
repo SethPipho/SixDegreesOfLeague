@@ -1993,7 +1993,7 @@
         "currentRegion": "NA",
         "firstDate": 130,
         "lastDate": 204,
-        "mostPlayedRegion": "NA",
+        "mostPlayedRegion": "EU",
         "name": "Alex Ich",
         "position": "Mid",
         "status": "active",
@@ -3958,7 +3958,7 @@
         "currentRegion": "EU",
         "firstDate": 165,
         "lastDate": 204,
-        "mostPlayedRegion": "RUSS",
+        "mostPlayedRegion": "EU",
         "name": "Archie (Vyacheslav Egorov)",
         "position": "Support",
         "status": "active",
@@ -6197,7 +6197,7 @@
     },
     "Bao": {
         "country": "China",
-        "currentRegion": "CN",
+        "currentRegion": "NA",
         "firstDate": 155,
         "lastDate": 167,
         "mostPlayedRegion": "CN",
@@ -10092,21 +10092,12 @@
     },
     "Canisgood": {
         "country": "Taiwan",
-        "currentRegion": "LMS",
-        "firstDate": 145,
-        "lastDate": 204,
+        "currentRegion": "X",
         "mostPlayedRegion": "LMS",
         "name": "Canisgood",
         "position": "",
-        "status": "active",
-        "teams": [
-            {
-                "end": 204,
-                "position": "Unknown",
-                "start": 145,
-                "teamName": "Garena"
-            }
-        ],
+        "status": "inactive",
+        "teams": [],
         "url": "/wiki/Canisgood"
     },
     "Cannot": {
@@ -22389,19 +22380,13 @@
     "Fluidwind": {
         "country": "Taiwan",
         "currentRegion": "LMS",
-        "firstDate": 155,
+        "firstDate": 161,
         "lastDate": 204,
         "mostPlayedRegion": "LMS",
         "name": "Fluidwind",
         "position": "Coach",
         "status": "active",
         "teams": [
-            {
-                "end": 204,
-                "position": "Unknown",
-                "start": 155,
-                "teamName": "Garena"
-            },
             {
                 "end": 174,
                 "position": "Unknown",
@@ -22447,7 +22432,7 @@
         "currentRegion": "CN",
         "firstDate": 177,
         "lastDate": 202,
-        "mostPlayedRegion": "CN",
+        "mostPlayedRegion": "NA",
         "name": "Fly (Kim Sang-chul)",
         "position": "Coach",
         "status": "inactive",
@@ -25619,21 +25604,12 @@
     },
     "Gshan": {
         "country": "Taiwan",
-        "currentRegion": "LMS",
-        "firstDate": 157,
-        "lastDate": 204,
+        "currentRegion": "X",
         "mostPlayedRegion": "LMS",
         "name": "Gshan",
         "position": "",
-        "status": "active",
-        "teams": [
-            {
-                "end": 204,
-                "position": "Unknown",
-                "start": 157,
-                "teamName": "Garena"
-            }
-        ],
+        "status": "inactive",
+        "teams": [],
         "url": "/wiki/Gshan"
     },
     "Gstv1": {
@@ -36232,7 +36208,7 @@
         "currentRegion": "EU",
         "firstDate": 144,
         "lastDate": 184,
-        "mostPlayedRegion": "NA",
+        "mostPlayedRegion": "EU",
         "name": "Krepo",
         "position": "Support",
         "status": "inactive",
@@ -51285,7 +51261,7 @@
         "currentRegion": "RUSS",
         "firstDate": 168,
         "lastDate": 192,
-        "mostPlayedRegion": "EU",
+        "mostPlayedRegion": "RUSS",
         "name": "Owen",
         "position": "Mid",
         "status": "inactive",
@@ -62467,7 +62443,7 @@
         "currentRegion": "TR",
         "firstDate": 157,
         "lastDate": 162,
-        "mostPlayedRegion": "EU",
+        "mostPlayedRegion": "TR",
         "name": "Serton",
         "position": "Jungler",
         "status": "inactive",
@@ -65191,10 +65167,10 @@
     },
     "Snoopeh": {
         "country": "United Kingdom",
-        "currentRegion": "NA",
+        "currentRegion": "EU",
         "firstDate": 140,
         "lastDate": 178,
-        "mostPlayedRegion": "NA",
+        "mostPlayedRegion": "EU",
         "name": "Snoopeh",
         "position": "Jungler",
         "status": "inactive",
@@ -74702,7 +74678,7 @@
         "currentRegion": "EU",
         "firstDate": 168,
         "lastDate": 202,
-        "mostPlayedRegion": "EU",
+        "mostPlayedRegion": "NA",
         "name": "Wendelbo",
         "position": "Support",
         "status": "inactive",
@@ -77453,7 +77429,7 @@
         "currentRegion": "CN",
         "firstDate": 156,
         "lastDate": 204,
-        "mostPlayedRegion": "CN",
+        "mostPlayedRegion": "NA",
         "name": "XiaoWeiXiao",
         "position": "Mid",
         "status": "active",

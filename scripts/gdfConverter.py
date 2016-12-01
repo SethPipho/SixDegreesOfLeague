@@ -10,7 +10,7 @@ fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
 adjFile = open(os.path.join(fileDir, relPath, "adjacencyList.all.longestTimeTogether.json"), "r", encoding="utf8")
-gdfFile = open(os.path.join(fileDir, relPath, "network2.gdf"), "w", encoding="utf8")
+gdfFile = open(os.path.join(fileDir, relPath, "network.gdf"), "w", encoding="utf8")
 
 playerFile = open(os.path.join(fileDir, relPath, "playerInfo.json"), "r", encoding="utf8")
 
@@ -25,7 +25,7 @@ nodes = []
 edges = []
 
 for player,teamMates in adjList.items():
-    if len(playerData[player]['teams']) < 1:
+    if len(playerData[player]['teams']) < 1 or len(teamMates.keys()) < 1:
         continue
     nodes.append([player, str(playerData[player]["lastDate"] -  playerData[player]["firstDate"]), playerData[player]["mostPlayedRegion"]])
     for teamMate,team in teamMates.items():

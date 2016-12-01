@@ -1,11 +1,4 @@
 
-import json
-import os
-
-fileDir = os.path.dirname(__file__)
-relPath = "../datafiles/"
-
-
 import os
 import json
 import sys
@@ -136,7 +129,8 @@ for player,edges in adjacencyList.items():
         if len(teams) > 0:
             teams.sort(key = lambda team: team["end"] - team["start"])
             adjacencyListFiltered[player][teamMate] = teams[-1]
-           
+
+       
 
 listFile = open(os.path.join(fileDir, relPath, "adjacencyList.active.longestTimeTogether.json"), "w", encoding="utf-8")
 listFile.write(json.dumps(adjacencyListFiltered, indent=4))

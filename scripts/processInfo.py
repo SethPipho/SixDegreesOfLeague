@@ -52,6 +52,13 @@ for player, data in playerData.items():
         if data["teams"][i]["teamName"] == "":
             data["teams"].pop(i)
 
+#filter out garena casters positions:
+for player, data in playerData.items():
+    for i in range(len(data['teams']) - 1,-1,-1):
+        if data["teams"][i]["teamName"] == "Garena":
+            data["teams"].pop(i)
+
+
 
 
 for player,data in playerData.items():
@@ -126,10 +133,8 @@ for player,data in playerData.items():
 
 
 #set region most played in
-
 for player,data in playerData.items():
 
-   
     regionsPlayed = {}
     
     for team in data["teams"]:
@@ -166,24 +171,6 @@ for player,data in playerData.items():
     if  playerData[player]["mostPlayedRegion"] == "X":
         playerData[player]["mostPlayedRegion"] = regions[playerData[player]["country"]]
   
-
-#Uniques fixes regarding regions
-
-playerData["Canisgood"]["mostPlayedRegion"] = "LMS"
-playerData["Canisgood"]["currentRegion"] = "LMS"
-
-playerData["Gshan"]["mostPlayedRegion"] = "LMS"
-playerData["Gshan"]["currentRegion"] = "LMS"
-
-playerData["Fluidwind"]["mostPlayedRegion"] = "LMS"
-playerData["Fluidwind"]["currentRegion"] = "LMS"
-
-playerData["Wendelbo"]["mostPlayedRegion"] = "EU"
-playerData["Wendelbo"]["currentRegion"] = "EU"
-
-
-
-        
 
 outFile.write(json.dumps(playerData, indent=4, sort_keys=True))
 

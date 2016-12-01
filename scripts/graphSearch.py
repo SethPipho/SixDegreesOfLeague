@@ -5,7 +5,7 @@ import time
 fileDir = os.path.dirname(__file__)
 relPath = "../datafiles/"
 
-adjacencyFile = open(os.path.join(fileDir, relPath, "adjacencyList.all.json"), "r", encoding="utf-8")
+adjacencyFile = open(os.path.join(fileDir, relPath, "adjacencyList.all.longestTimeTogether.json"), "r", encoding="utf-8")
 pathFile = open(os.path.join(fileDir, relPath, "allPaths.txt"), "w", encoding="utf-8")
 
 players = json.loads(adjacencyFile.read())
@@ -37,9 +37,11 @@ def BFS(root, target, graph):
                 Queue.insert(0,adjacent)
             
             if adjacent == target:
+               path.append([target, graph[target][parent[target]]["teamName"]])
                while current != root:
-                   path.append(current)
+                   path.append([current, graph[parent[current]][current]["teamName"]])
                    current = parent[current]
+               path.append(root)
                return path
     path.append("None")
     return path

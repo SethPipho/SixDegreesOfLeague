@@ -1309,7 +1309,7 @@
     },
     "Evil Geniuses": {
         "location": "North America",
-        "region": "NA"
+        "region": "EU"
     },
     "Evil Sharks": {
         "location": "unknown",
@@ -2341,7 +2341,7 @@
     },
     "LMQ": {
         "location": "China",
-        "region": "CN"
+        "region": "NA"
     },
     "La GG": {
         "location": "unknown",
@@ -2829,7 +2829,7 @@
     },
     "Moscow Five": {
         "location": "Russia",
-        "region": "RUSS"
+        "region": "EU"
     },
     "Motion Gaming": {
         "location": "unknown",
@@ -4288,7 +4288,7 @@
         "region": "RUSS"
     },
     "Team Dignitas": {
-        "location": "United States",
+        "location": "United Kingdom",
         "region": "NA"
     },
     "Team Dignitas EU": {
@@ -4472,11 +4472,11 @@
         "region": "X"
     },
     "Team Liquid": {
-        "location": "United States",
+        "location": "Netherlands",
         "region": "NA"
     },
     "Team Liquid Academy": {
-        "location": "United States",
+        "location": "Netherlands",
         "region": "NA"
     },
     "Team Livemore": {

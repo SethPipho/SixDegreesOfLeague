@@ -1,0 +1,17 @@
+Posted this yesterday, but there was a few big mistakes that I fixed(hopefully).
+
+This graph represent all professional League of Legends players (active and retired). 
+
+Players are connected together if they were on the same team at one time.
+
+The edges are weighted by how how long they played together, so players who played together for
+a long time cluster together. 
+
+The size of each node represents how long their career was and the color
+represents which competitive region they played the most in.
+
+The data was scraped from [lol.esportswikis](http://lol.esportswikis.com/), scrubbed, and formated using python
+
+The visualization was created in Gephi.
+
+If you notice any mistakes, let me know. The data source is far from perfect and contained some incomplete or inaccurate info and despite my best efforts, scrubbing data is tricky. 
